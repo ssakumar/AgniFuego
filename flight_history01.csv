@@ -25,6 +25,9 @@ N32AL,11-Jul-2022,AC90,Astoria Rgnl (KAST),"Astoria Rgnl (Astoria, OR) - KAST",P
 N32AL,11-Jul-2022,AC90,Portland-Hillsboro (KHIO),"Portland-Hillsboro (Portland, OR) - KHIO",Astoria Rgnl (KAST),"Astoria Rgnl (Astoria, OR) - KAST",08:43AM PDT,09:01AM PDT,0:17
 N32AL,22-Jun-2022,AC90,Yakima Air Terminal  (KYKM),"Yakima Air Terminal  (Yakima, WA) - KYKM",Portland-Hillsboro (KHIO),"Portland-Hillsboro (Portland, OR) - KHIO",12:50PM PDT,01:27PM PDT,0:36
 N32AL,22-Jun-2022,AC90,Portland-Hillsboro (KHIO),"Portland-Hillsboro (Portland, OR) - KHIO",Yakima Air Terminal  (KYKM),"Yakima Air Terminal  (Yakima, WA) - KYKM",11:21AM PDT,12:00PM PDT,0:38
+N542LM,27-Jan-2023,LJ35,Boeing Field Intl (KBFI),"Boeing Field Intl (Seattle, WA) - KBFI",Anchorage Intl (PANC),"Anchorage Intl (Anchorage, AK) - PANC",10:39AM PST,01:12PM AKST,3:32
+N542LM,27-Jan-2023,LJ35,Salt Lake City Intl (KSLC),"Salt Lake City Intl (Salt Lake City, UT) - KSLC",Boeing Field Intl (KBFI),"Boeing Field Intl (Seattle, WA) - KBFI",09:13AM MST,09:56AM PST,1:42
+N542LM,26-Jan-2023,LJ35,Boeing Field Intl (KBFI),"Boeing Field Intl (Seattle, WA) - KBFI",Salt Lake City Intl (KSLC),"Salt Lake City Intl (Salt Lake City, UT) - KSLC",01:39PM PST,04:11PM MST,1:32
 N542LM,26-Jan-2023,LJ35,Anchorage Intl (PANC),"Anchorage Intl (Anchorage, AK) - PANC",Boeing Field Intl (KBFI),"Boeing Field Intl (Seattle, WA) - KBFI",09:31AM AKST,01:11PM PST,2:39
 N542LM,25-Jan-2023,LJ35,Anchorage Intl (PANC),"Anchorage Intl (Anchorage, AK) - PANC",Anchorage Intl (PANC),"Anchorage Intl (Anchorage, AK) - PANC",05:26PM AKST,06:16PM AKST,0:50
 N542LM,25-Jan-2023,LJ35,Anchorage Intl (PANC),"Anchorage Intl (Anchorage, AK) - PANC",Kenai Muni (ENA / PAEN),"Kenai Muni (Kenai, AK) - ENA / PAEN",05:26PM AKST,,Diverted
@@ -332,6 +335,8 @@ N542LM,03-Jun-2022,LJ35,Mcchord Fld (Joint Base Lewis-Mcchord) (KTCM),"Mcchord F
 N542LM,02-Jun-2022,LJ35,Fairbanks Intl (FAI / PAFA),"Fairbanks Intl (Fairbanks, AK) - FAI / PAFA",Mcchord Fld (Joint Base Lewis-Mcchord) (KTCM),"Mcchord Fld (Joint Base Lewis-Mcchord) (Tacoma, WA) - KTCM",06:36PM AKDT,10:57PM PDT,3:21
 N542LM,29-May-2022,LJ35,Anchorage Intl (PANC),"Anchorage Intl (Anchorage, AK) - PANC",Fairbanks Intl (FAI / PAFA),"Fairbanks Intl (Fairbanks, AK) - FAI / PAFA",07:34AM AKDT,08:12AM AKDT,0:37
 N542LM,29-May-2022,LJ35,Fairbanks Intl (FAI / PAFA),"Fairbanks Intl (Fairbanks, AK) - FAI / PAFA",Anchorage Intl (PANC),"Anchorage Intl (Anchorage, AK) - PANC",05:25AM AKDT,06:04AM AKDT,0:38
+N545LM,27-Jan-2023,BE20,Anchorage Intl (PANC),"Anchorage Intl (Anchorage, AK) - PANC",Unalaska (DUT / PADU),"Unalaska (Unalaska, AK) - DUT / PADU",09:58AM AKST,01:11PM AKST,3:12
+N545LM,26-Jan-2023,BE20,Unalaska (DUT / PADU),"Unalaska (Unalaska, AK) - DUT / PADU",Anchorage Intl (PANC),"Anchorage Intl (Anchorage, AK) - PANC",06:51PM AKST,09:08PM AKST,2:16
 N545LM,25-Jan-2023,BE20,Anchorage Intl (PANC),"Anchorage Intl (Anchorage, AK) - PANC",Unalaska (DUT / PADU),"Unalaska (Unalaska, AK) - DUT / PADU",01:01PM AKST,04:07PM AKST,3:05
 N545LM,25-Jan-2023,BE20,Unalaska (DUT / PADU),"Unalaska (Unalaska, AK) - DUT / PADU",Anchorage Intl (PANC),"Anchorage Intl (Anchorage, AK) - PANC",08:14AM AKST,10:46AM AKST,2:32
 N545LM,24-Jan-2023,BE20,Anchorage Intl (PANC),"Anchorage Intl (Anchorage, AK) - PANC",Unalaska (DUT / PADU),"Unalaska (Unalaska, AK) - DUT / PADU",11:36AM AKST,02:41PM AKST,3:05
@@ -1278,16 +1283,10 @@ N546LM,27-May-2022,BE20,Fairbanks Intl (FAI / PAFA),"Fairbanks Intl (Fairbanks, 
 N546LM,26-May-2022,BE20,Koyukuk (KYU / PFKU),"Koyukuk (Koyukuk, AK) - KYU / PFKU",Fairbanks Intl (FAI / PAFA),"Fairbanks Intl (Fairbanks, AK) - FAI / PAFA",09:25PM AKDT,10:21PM AKDT,0:56
 N546LM,26-May-2022,BE20,Fairbanks Intl (FAI / PAFA),"Fairbanks Intl (Fairbanks, AK) - FAI / PAFA",Koyukuk (KYU / PFKU),"Koyukuk (Koyukuk, AK) - KYU / PFKU",08:04PM AKDT,09:11PM AKDT (?),1:07
 N546LM,26-May-2022,BE20,Fort Yukon (PFYU),"Fort Yukon (Fort Yukon, AK) - PFYU",Fairbanks Intl (FAI / PAFA),"Fairbanks Intl (Fairbanks, AK) - FAI / PAFA",04:05PM AKDT,04:40PM AKDT,0:35
-N546LM,26-May-2022,BE20,Fairbanks Intl (FAI / PAFA),"Fairbanks Intl (Fairbanks, AK) - FAI / PAFA",Fort Yukon (PFYU),"Fort Yukon (Fort Yukon, AK) - PFYU",03:06PM AKDT,03:41PM AKDT (?),0:35
-N546LM,26-May-2022,BE20,Fort Yukon (PFYU),"Fort Yukon (Fort Yukon, AK) - PFYU",Fairbanks Intl (FAI / PAFA),"Fairbanks Intl (Fairbanks, AK) - FAI / PAFA",01:25PM AKDT,01:59PM AKDT,0:34
-N546LM,26-May-2022,BE20,Fairbanks Intl (FAI / PAFA),"Fairbanks Intl (Fairbanks, AK) - FAI / PAFA",Fort Yukon (PFYU),"Fort Yukon (Fort Yukon, AK) - PFYU",12:02PM AKDT,12:42PM AKDT,0:39
-N546LM,26-May-2022,BE20,"Near Nenana, AK",L 64.99228 -148.83981,Fairbanks Intl (FAI / PAFA),"Fairbanks Intl (Fairbanks, AK) - FAI / PAFA",First seen 08:10AM AKDT,08:19AM AKDT,0:08
-N546LM,26-May-2022,BE20,Fairbanks Intl (FAI / PAFA),"Fairbanks Intl (Fairbanks, AK) - FAI / PAFA","Near Nenana, AK",L 65.00257 -148.89153,07:35AM AKDT,Last seen 08:10AM AKDT,0:34
-N546LM,26-May-2022,BE20,Anaktuvuk Pass (PAKP),"Anaktuvuk Pass (Anaktuvuk Pass, AK) - PAKP",Fairbanks Intl (FAI / PAFA),"Fairbanks Intl (Fairbanks, AK) - FAI / PAFA",04:48AM AKDT,05:33AM AKDT,0:45
-N546LM,26-May-2022,BE20,Fairbanks Intl (FAI / PAFA),"Fairbanks Intl (Fairbanks, AK) - FAI / PAFA",Anaktuvuk Pass (PAKP),"Anaktuvuk Pass (Anaktuvuk Pass, AK) - PAKP",03:11AM AKDT,04:15AM AKDT (?),1:03
-N546LM,26-May-2022,BE20,Edward G Pitka Sr (GAL / PAGA),"Edward G Pitka Sr (Galena, AK) - GAL / PAGA",Fairbanks Intl (FAI / PAFA),"Fairbanks Intl (Fairbanks, AK) - FAI / PAFA",12:37AM AKDT,01:27AM AKDT,0:50
-N546LM,25-May-2022,BE20,Fairbanks Intl (FAI / PAFA),"Fairbanks Intl (Fairbanks, AK) - FAI / PAFA",Edward G Pitka Sr (GAL / PAGA),"Edward G Pitka Sr (Galena, AK) - GAL / PAGA",11:25PM AKDT,12:27AM AKDT (+1) (?),1:01
-N546LM,25-May-2022,BE20,Anchorage Intl (PANC),"Anchorage Intl (Anchorage, AK) - PANC",Fairbanks Intl (FAI / PAFA),"Fairbanks Intl (Fairbanks, AK) - FAI / PAFA",07:25PM AKDT,08:28PM AKDT,1:03
+N548LM,27-Jan-2023,LJ31,Kenai Muni (ENA / PAEN),"Kenai Muni (Kenai, AK) - ENA / PAEN",Anchorage Intl (PANC),"Anchorage Intl (Anchorage, AK) - PANC",06:19AM AKST,06:34AM AKST,0:14
+N548LM,27-Jan-2023,LJ31,Anchorage Intl (PANC),"Anchorage Intl (Anchorage, AK) - PANC",Kenai Muni (ENA / PAEN),"Kenai Muni (Kenai, AK) - ENA / PAEN",04:28AM AKST,04:41AM AKST,0:12
+N548LM,26-Jan-2023,LJ31,Fairbanks Intl (FAI / PAFA),"Fairbanks Intl (Fairbanks, AK) - FAI / PAFA",Anchorage Intl (PANC),"Anchorage Intl (Anchorage, AK) - PANC",09:35PM AKST,10:18PM AKST,0:42
+N548LM,26-Jan-2023,LJ31,Anchorage Intl (PANC),"Anchorage Intl (Anchorage, AK) - PANC",Fairbanks Intl (FAI / PAFA),"Fairbanks Intl (Fairbanks, AK) - FAI / PAFA",07:30PM AKST,08:09PM AKST,0:39
 N548LM,25-Jan-2023,LJ31,Kodiak (PADQ),"Kodiak (Kodiak, AK) - PADQ",Anchorage Intl (PANC),"Anchorage Intl (Anchorage, AK) - PANC",05:30PM AKST,06:10PM AKST,0:40
 N548LM,25-Jan-2023,LJ31,Anchorage Intl (PANC),"Anchorage Intl (Anchorage, AK) - PANC",Kodiak (PADQ),"Kodiak (Kodiak, AK) - PADQ",11:38AM AKST,12:23PM AKST,0:44
 N548LM,09-Jan-2023,LJ31,Fairbanks Intl (FAI / PAFA),"Fairbanks Intl (Fairbanks, AK) - FAI / PAFA",Anchorage Intl (PANC),"Anchorage Intl (Anchorage, AK) - PANC",06:08PM AKST,06:57PM AKST,0:48
