@@ -28,7 +28,7 @@ Octoparse
 
 # Objectives
 
-To continue scrapping data from flightware to constantly keep track of the flight path data.
-Dicuss the need for scrapping data from airnav.com
+To continue scraping data from flightware to constantly keep track of the flight path data.
+Dicuss the need for scraping data from airnav.com
 
 
