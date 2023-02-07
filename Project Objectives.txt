@@ -1,0 +1,7 @@
+Our first objective is to learn how to create a comprehensive dashboard using either Tableau or PowerBI.
+
+The 2nd objective of this project, after creating the initial version of the  dashboard, is to enable it to handle updates from streaming data sources occurring at least once per day.
+
+In terms of our objectives for what we plan to learn in the process of completing this project, is for all of us to get netter at using, implementing, and adhering to the Agile Scrum Methodology on YouTrack.
+
+Our final objective final goal for this project is to create a few tools which can be used by a stakeholder in order to forecast when certain older planes will need to be replaced as the entire fleet continues to depreciate.
