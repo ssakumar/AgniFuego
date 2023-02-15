@@ -1,0 +1,439 @@
+airport_numbers,location,elevation,variation,from_city,time_zone,zipcode,airport_use,activation_date,control_tower,artcc,fss,attendance,fueltype,parking,ownership1,ownership2,runway,airport_operations,airport_operations1
+09J,"31-04-28.1000N 081-25-40.0000W
+31-04.468333N 081-25.666667W
+31.0744722,-81.4277778
+(estimated)",11.3 ft. / 3.4 m (surveyed),05W (1995),"6 miles SE of JEKYLL ISLAND, GA",UTC -5 (UTC -4 during Daylight Saving Time),31527,Open to the public,no,JACKSONVILLE CENTER,MACON FLIGHT SERVICE STATION,MCN (NOTAM-D service available),lighted,3715 x 75 ft. / 1132 x 23 m,tiedowns,Publicly-owned,  ,Runway 18/36,"['- ', 'TRANSITION VIOLATIONS - 55 FT TREES E OF RY & 40 FT TREES W OF RY.']","['Aircraft based on the field:', ' ', '7', 'Single engine airplanes:', ' ', '5', 'Ultralights:', ' ', '2']"
+14A,"35-36-49.9300N 080-53-57.9500W
+35-36.832167N 080-53.965833W
+35.6138694,-80.8994306
+(estimated)",839.4 ft. / 255.8 m (surveyed),07W (2005),"5 miles NW of MOORESVILLE, NC",UTC -5 (UTC -4 during Daylight Saving Time),28117,Open to the public,06/1967,no,ATLANTA CENTER,RALEIGH FLIGHT SERVICE STATION,"MON - FRI 0800-1700, ALL SAT - SUN 1000-1600
+ARPT UNATNDD ALL MAJ HOLS.",100LL,,3147 x 40 ft. / 959 x 12 m,Privately-owned,Runway 14/32,"['- ', 'ROTG BCN IS LCTD ON TOP OF A WATER TANK 1/2 - 1 MILE NE OF RY 18 IN A SWAMPY AREA.']","['Aircraft operations: avg 33/month *', '75% ', 'transient general aviation', '25% ', 'air taxi', '* for 12-month period ending 15 June 2020']"
+18A,"34-20-25.3000N 083-07-50.9000W
+34-20.421667N 083-07.848333W
+34.3403611,-83.1308056
+(estimated)",889.9 ft. / 271 m (estimated),05W (2005),"1 mile SW of CANON, GA",UTC -5 (UTC -4 during Daylight Saving Time),30520,Open to the public,11/1970,no,ATLANTA CENTER,MACON FLIGHT SERVICE STATION,UNATNDD,"100LL JET-A
+100LL:SELF SVC 100LL AND A FUEL AVBL 24 HRS WITH CREDIT CARD.",,5000 x 75 ft. / 1524 x 23 m,Publicly-owned,Runway 8/26,"['- ', 'DEER ON & INVOF OF ARPT.']","['Aircraft based on the field:', ' ', '26', 'Single engine airplanes:', ' ', '23', 'Jet airplanes:', ' ', '1', 'Helicopters:', ' ', '2']"
+1V6,"38-25-42.8168N 105-06-24.6759W
+38-25.713613N 105-06.411265W
+38.4285602,-105.1068544
+(estimated)",5442.4 ft. / 1658.8 m (surveyed),08E (2020),"6 miles E of CANON CITY, CO",UTC -7 (UTC -6 during Daylight Saving Time),81240,Open to the public,03/1941,no,DENVER CENTER,DENVER FLIGHT SERVICE STATION,0800-1700,100LL JET-A,,5399 x 75 ft. / 1646 x 23 m,"1800 x 35 ft. / 549 x 11 m
+VRBL 35 - 45 FT.",Runway 11/29,"['- ', 'FOR CD CTC JACKSONVILLE ARTCC AT 904-845-1592.']","['Aircraft based on the field:', ' ', '137', 'Single engine airplanes:', ' ', '115', 'Multi engine airplanes:', ' ', '17', 'Helicopters:', ' ', '1', 'Ultralights:', ' ', '4']"
+22S,"42-43-04.7000N 120-33-46.0000W
+42-43.078333N 120-33.766667W
+42.7179722,-120.5627778
+(estimated)",4395 ft. / 1340 m (estimated),18E (1985),"3 miles NW of PAISLEY, OR",UTC -8 (UTC -7 during Daylight Saving Time),97636,Open to the public,07/1961,no,SEATTLE CENTER,MC MINNVILLE FLIGHT SERVICE STATION,UNATNDD,4300 x 60 ft. / 1311 x 18 m,NONE,Publicly-owned,nan,Runway 13/31,"['Aircraft based on the field:   92\nSingle engine airplanes:   86\nMulti engine airplanes:   3\nHelicopters:   2\nUltralights:   1', 'Aircraft based on the field:', ' ', '92', 'Single engine airplanes:', ' ', '86', 'Multi engine airplanes:', ' ', '3', 'Helicopters:', ' ', '2', 'Ultralights:', ' ', '1', '  ', '', '  ', 'Aircraft operations: avg 49/day *\n83%  local general aviation\n17%  transient general aviation\n* for 12-month period ending 19 August 2022', 'Aircraft operations: avg 49/day *', '83% ', 'local general aviation', '17% ', 'transient general aviation', '* for 12-month period ending 19 August 2022']","['Aircraft based on the field:', ' ', '44', 'Single engine airplanes:', ' ', '42', 'Multi engine airplanes:', ' ', '2']"
+2I0,"37-21-21.3390N 087-23-53.5910W
+37-21.355650N 087-23.893183W
+37.3559275,-87.3982197
+(estimated)",439.1 ft. / 133.8 m (surveyed),03W (2010),"5 miles NE of MADISONVILLE, KY",UTC -6 (UTC -5 during Daylight Saving Time),42431,Open to the public,04/1944,no,INDIANAPOLIS CENTER,LOUISVILLE FLIGHT SERVICE STATION,"MON-FRI 0700-1700, ALL SAT-SUN 0800-1700, ALL HOLIDAY 0800-1700",6051 x 100 ft. / 1844 x 30 m,hangars and tiedowns,Publicly-owned,  ,Runway 5/23,"['Aircraft based on the field:   25\nSingle engine airplanes:   22\nMulti engine airplanes:   3', 'Aircraft based on the field:', ' ', '25', 'Single engine airplanes:', ' ', '22', 'Multi engine airplanes:', ' ', '3', '  ', '', '  ', 'Aircraft operations: avg 22/day *\n50%  transient general aviation\n50%  local general aviation\n* for 12-month period ending 31 December 2021', 'Aircraft operations: avg 22/day *', '50% ', 'transient general aviation', '50% ', 'local general aviation', '* for 12-month period ending 31 December 2021']","['Aircraft based on the field:', ' ', '18', 'Single engine airplanes:', ' ', '10', 'Multi engine airplanes:', ' ', '1', 'Jet airplanes:', ' ', '1', 'Helicopters:', ' ', '6']"
+2R4,"30-38-15.4350N 086-59-37.1500W
+30-38.257250N 086-59.619167W
+30.6376208,-86.9936528
+(estimated)",81.6 ft. / 24.9 m (surveyed),01W (2000),"3 miles E of MILTON, FL",UTC -6 (UTC -5 during Daylight Saving Time),32583,Open to the public,04/1940,no,JACKSONVILLE CENTER,GAINESVILLE FLIGHT SERVICE STATION,0700-DUSK,3701 x 75 ft. / 1128 x 23 m,tiedowns,Publicly-owned,  ,Runway 18/36,"['Ownership: ', 'Publicly-owned']","['Aircraft based on the field:', ' ', '109', 'Single engine airplanes:', ' ', '67', 'Multi engine airplanes:', ' ', '6', 'Jet airplanes:', ' ', '24', 'Helicopters:', ' ', '12']"
+32S,"46-31-30.4000N 114-03-10.1000W
+46-31.506667N 114-03.168333W
+46.5251111,-114.0528056
+(estimated)",3613.5 ft. / 1101.4 m (surveyed),16E (2000),"2 miles NE of STEVENSVILLE, MT",UTC -7 (UTC -6 during Daylight Saving Time),59870,Open to the public,04/1940,no,SALT LAKE CITY CENTER,GREAT FALLS FLIGHT SERVICE STATION,UNATNDD,3809 x 75 ft. / 1161 x 23 m,tiedowns,Publicly-owned,  ,Runway 12/30,"['Owner: ', 'FREMONT COUNTY\n615 MACON\nCANON CITY, CO 81212\nPhone 719-276-7300']","['Aircraft based on the field:', ' ', '144', 'Single engine airplanes:', ' ', '125', 'Multi engine airplanes:', ' ', '1', 'Helicopters:', ' ', '2', 'Gliders airplanes:', ' ', '16']"
+38S,"46-23-16.2000N 112-45-53.8000W
+46-23.270000N 112-45.896667W
+46.3878333,-112.7649444
+(estimated)",4692.7 ft. / 1430.3 m (surveyed),13E (2015),"2 miles W of DEER LODGE, MT",UTC -7 (UTC -6 during Daylight Saving Time),59722,Open to the public,04/1940,no,SALT LAKE CITY CENTER,GREAT FALLS FLIGHT SERVICE STATION,UNATNDD,"5800 x 75 ft. / 1768 x 23 m
+RY 13/31 EXTDD SE END.",tiedowns,Publicly-owned,  ,Runway 13/31,"['Manager: ', 'WESLEY BRANDT\n60298 HIGHWAY 50\nPENROSE, CO 81240\nPhone 719-784-3816\nAFT HR - 719-429-3816.']","['Aircraft based on the field:', ' ', '66', 'Single engine airplanes:', ' ', '59', 'Multi engine airplanes:', ' ', '3', 'Helicopters:', ' ', '2', 'Gliders airplanes:', ' ', '2']"
+46U,"43-10-54.5000N 111-02-18.6000W
+43-10.908333N 111-02.310000W
+43.1818056,-111.0385000
+(estimated)",5637 ft. / 1718.2 m (surveyed),11E (2020),"1 mile NW of ALPINE, WY",UTC -7 (UTC -6 during Daylight Saving Time),83128,Open to the public,12/1971,no,SALT LAKE CITY CENTER,CASPER FLIGHT SERVICE STATION,UNATNDD,5827 x 70 ft. / 1776 x 21 m,tiedowns,Privately-owned,  ,Runway 13/31,"['- ', ""TRAFFIC PATTERN ALTITUDE 1000' AGL.""]","['Aircraft based on the field:', ' ', '15', 'Single engine airplanes:', ' ', '14', 'Multi engine airplanes:', ' ', '1']"
+48A,"32-24-02.3690N 083-16-42.2630W
+32-24.039483N 083-16.704383W
+32.4006581,-83.2784064
+(estimated)",377.4 ft. / 115.0 m (surveyed),03W (1985),"4 miles E of COCHRAN, GA",UTC -5 (UTC -4 during Daylight Saving Time),31014,Open to the public,05/1941,no,ATLANTA CENTER,MACON FLIGHT SERVICE STATION,MON-SAT 0800-1200,"100LL JET-A+
+100LL:24HR FUEL SELF SERV W/MAJOR CREDIT CARD.",,4400 x 75 ft. / 1341 x 23 m,3202 x 50 ft. / 976 x 15 m,Runway 11/29,"['- ', '4 FT FENCE, 40 FT FROM RY EDGE ALONG NE SIDE OF RY.']","['Aircraft based on the field:', ' ', '17', 'Single engine airplanes:', ' ', '17']"
+4S2,"45-40-21.9964N 121-32-01.9099W
+45-40.366607N 121-32.031832W
+45.6727768,-121.5338639
+(estimated)",638 ft. / 194.5 m (surveyed),19E (1985),"2 miles S of HOOD RIVER, OR",UTC -8 (UTC -7 during Daylight Saving Time),97031,Open to the public,08/1945,no,SEATTLE CENTER,MC MINNVILLE FLIGHT SERVICE STATION,"NOV-APR 0800-1700, MAY-OCT 0800-1800",3040 x 75 ft. / 927 x 23 m,tiedowns,Publicly-owned,  ,Runway 7/25,"['- ', 'FOR CD CTC SEATTLE ARTCC AT 253-351-3694.']","['Aircraft based on the field:', ' ', '98', 'Single engine airplanes:', ' ', '78', 'Multi engine airplanes:', ' ', '9', 'Jet airplanes:', ' ', '2', 'Helicopters:', ' ', '7', 'Gliders airplanes:', ' ', '2']"
+65S,"48-43-33.5000N 116-17-42.6000W
+48-43.558333N 116-17.710000W
+48.7259722,-116.2951667
+(estimated)",2337.1 ft. / 712.3 m (surveyed),16E (2010),"2 miles NE of BONNERS FERRY, ID",UTC -8 (UTC -7 during Daylight Saving Time),83805,Open to the public,09/1948,no,SEATTLE CENTER,BOISE FLIGHT SERVICE STATION,"MON-FRI 0800-1700, ALL SAT 0800-1600",4002 x 75 ft. / 1220 x 23 m,hangars and tiedowns,Publicly-owned,  ,Runway 2/20,"['- ', 'FOR CD WHEN RCO 120.1 OTS CTC EVANSVILLE APCH AT 812-436-4689, WHEN APCH CLSD CTC INDIANAPOLIS ARTCC AT 317-247-2411.']","['Aircraft based on the field:', ' ', '91', 'Single engine airplanes:', ' ', '88', 'Multi engine airplanes:', ' ', '2', 'Gliders airplanes:', ' ', '1']"
+6A8,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,"['- ', 'BE ALERT ARPT SITUATED IN CUT-OFF OF NAS WHITING CASS C AIRSPACE LOCATED 1400 FT OVERHEAD WITHIN 1 MILE FROM THE CENTER OF THE ARPT ON THREE SIDES TO THE EAST, NORTH, AND WEST FROM SURFACE TO 4200 FT.']","['Aircraft based on the field:', ' ', '1', 'Single engine airplanes:', ' ', '1']"
+6K4,"36-17-28.3000N 098-28-32.9000W
+36-17.471667N 098-28.548333W
+36.2911944,-98.4758056
+(estimated)",1273.8 ft. / 388.3 m (surveyed),04E (2020),"1 mile N of FAIRVIEW, OK",UTC -6 (UTC -5 during Daylight Saving Time),73737,Open to the public,03/1948,no,KANSAS CITY CENTER,MC ALESTER FLIGHT SERVICE STATION,MON-SAT DAYLIGHT HOURS,4400 x 75 ft. / 1341 x 23 m,tiedowns,Publicly-owned,  ,Runway 17/35,"['- ', 'GCO AVBL ON FREQ 121.725 THRU PENSACOLA APCH.']","['Aircraft based on the field:', ' ', '128', 'Single engine airplanes:', ' ', '62', 'Multi engine airplanes:', ' ', '29', 'Jet airplanes:', ' ', '35', 'Helicopters:', ' ', '1', 'Military aircraft:', ' ', '1']"
+6K8,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,"['- ', 'INTENSIVE FLIGHT TRAINING INVOF ARPT.']","['Aircraft based on the field:', ' ', '10', 'Single engine airplanes:', ' ', '3', 'Multi engine airplanes:', ' ', '2', 'Jet airplanes:', ' ', '5']"
+6S0,"45-48-23.3181N 109-58-41.7237W
+45-48.388635N 109-58.695395W
+45.8064773,-109.9782566
+(estimated)",4493.9 ft. / 1369.7 m (surveyed),11E (2020),"3 miles SW of BIG TIMBER, MT",UTC -7 (UTC -6 during Daylight Saving Time),59011,Open to the public,05/1941,no,SALT LAKE CITY CENTER,GREAT FALLS FLIGHT SERVICE STATION,"MON-FRI 0800-1700, ALL SAT-SUN ON CALL
+FOR ATTENDANT SAT & SUN CALL 406-932-4389.",5285 x 75 ft. / 1611 x 23 m,tiedowns,3475 x 75 ft. / 1059 x 23 m,Publicly-owned,Runway 6/24,"['- ', 'LIMITED PARKING ON WEST RAMP FOR TRANSIENT ACFT URGED TO BRING TIE-DOWN ROPES FOR EAST RAMP PARKING.']","['Aircraft based on the field:', ' ', '26', 'Single engine airplanes:', ' ', '20', 'Multi engine airplanes:', ' ', '6']"
+6S3,"45-37-49.8860N 109-14-21.1740W
+45-37.831433N 109-14.352900W
+45.6305239,-109.2392150
+(estimated)",3577.6 ft. / 1090.5 m (surveyed),15E (1985),UTC -7 (UTC -6 during Daylight Saving Time),59019,nan,Open to the public,04/1940,no,SALT LAKE CITY CENTER,GREAT FALLS FLIGHT SERVICE STATION,MON-FRI 0800-1700,3800 x 75 ft. / 1158 x 23 m,tiedowns,Publicly-owned,  ,Runway 10/28,"['- ', 'FOR CD IF UNA VIA GCO CTC JACKSONVILLE ARTCC AT 904-845-1592.']","['Aircraft based on the field:', ' ', '95', 'Single engine airplanes:', ' ', '66', 'Multi engine airplanes:', ' ', '10', 'Jet airplanes:', ' ', '13', 'Helicopters:', ' ', '5', 'Gliders airplanes:', ' ', '1']"
+6S5,"46-15-25.7972N 114-07-25.8352W
+46-15.429953N 114-07.430587W
+46.2571659,-114.1238431
+(estimated)",3635.6 ft. / 1108.1 m (surveyed),13E (2025),"1 mile E of HAMILTON, MT",UTC -7 (UTC -6 during Daylight Saving Time),59840,Open to the public,04/1940,no,SALT LAKE CITY CENTER,GREAT FALLS FLIGHT SERVICE STATION,0800-1700,5200 x 75 ft. / 1585 x 23 m,hangars and tiedowns,Publicly-owned,  ,Runway 17/35,"['- ', 'SN REMOVAL INTMT CHK WITH MGR FOR CURRENT CONDS CELL 406-369-5502.']","['Aircraft based on the field:', ' ', '16', 'Single engine airplanes:', ' ', '13', 'Jet airplanes:', ' ', '3']"
+74S,"48-29-54.6250N 122-39-44.8850W
+48-29.910417N 122-39.748083W
+48.4985069,-122.6624681
+(estimated)",246.1 ft. / 75.0 m (surveyed),21E (1985),"2 miles W of ANACORTES, WA",UTC -8 (UTC -7 during Daylight Saving Time),98221,Open to the public,12/1970,no,SEATTLE CENTER,SEATTLE FLIGHT SERVICE STATION,UNATNDD,100 JET-A,,3018 x 60 ft. / 920 x 18 m,Publicly-owned,Runway 18/36,"['- ', 'PATTERN ALT 800 AGL-CALM WIND; RY 12 (UPHILL) FOR LANDING; RY 30 (DOWNHILL) FOR TAKEOFF.']","['Aircraft based on the field:', ' ', '114', 'Single engine airplanes:', ' ', '104', 'Multi engine airplanes:', ' ', '7', 'Helicopters:', ' ', '2', 'Gliders airplanes:', ' ', '1']"
+77S,"43-55-50.7000N 123-00-24.0000W
+43-55.845000N 123-00.400000W
+43.9307500,-123.0066667
+(estimated)",541.2 ft. / 165.0 m (surveyed),15E (2020),"1 mile NE of CRESWELL, OR",UTC -8 (UTC -7 during Daylight Saving Time),97426,Open to the public,no,SEATTLE CENTER,MC MINNVILLE FLIGHT SERVICE STATION,MMV (NOTAM-D service available),1406.2 ft. MSL,3102 x 60 ft. / 945 x 18 m,tiedowns,Publicly-owned,  ,Runway 16/34,"['- ', 'CREW CAR AVAILABLE.']","['Aircraft based on the field:', ' ', '6', 'Single engine airplanes:', ' ', '4', 'Multi engine airplanes:', ' ', '1', 'Jet airplanes:', ' ', '1']"
+7AK,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,"['- ', 'FOR CD CTC SPOKANE APCH AT 509-742-2522, WHEN APCH CLSD CTC SALT LAKE ARTCC AT 801-320-2568']","['Aircraft based on the field:', ' ', '243', 'Single engine airplanes:', ' ', '185', 'Multi engine airplanes:', ' ', '17', 'Jet airplanes:', ' ', '9', 'Helicopters:', ' ', '23', 'Gliders airplanes:', ' ', '9']"
+7S0,"47-34-01.8000N 114-06-03.9000W
+47-34.030000N 114-06.065000W
+47.5671667,-114.1010833
+(estimated)",3086 ft. / 940.6 m (surveyed),15E (2005),"3 miles N of RONAN, MT",UTC -7 (UTC -6 during Daylight Saving Time),59864,Open to the public,11/1952,no,SALT LAKE CITY CENTER,GREAT FALLS FLIGHT SERVICE STATION,UNATNDD,"100LL JET-A+
+100LL:FUEL AVBL 24 HRS VIA SELF SERVE CREDIT CARD SVC.",,4798 x 75 ft. / 1462 x 23 m,Publicly-owned,Runway 16/34,"['A55-31 ', ""+28' TREES 250' LEFT OF RWY CNTRLN EXTENDED.""]","['Aircraft based on the field:', ' ', '70', 'Single engine airplanes:', ' ', '66', 'Multi engine airplanes:', ' ', '2', 'Helicopters:', ' ', '2']"
+88AZ,"33-38-27.2700N 111-03-24.9000W
+33-38.454500N 111-03.415000W
+33.6409083,-111.0569167
+(estimated)",2329 ft. / 710 m (estimated),11E (2015),"5 miles SE of ROOSEVELT, AZ",UTC -7 (year round; does not observe DST),85545,Private use. Permission required prior to landing,11/2016,no,ALBUQUERQUE CENTER,PRESCOTT FLIGHT SERVICE STATION,yes,3800 x 40 ft. / 1158 x 12 m,nan,Publicly-owned,"USE AT PILOTS OWN RISK, NO TRAINING OR TOUCH AND GOES PERMITED.",Runway 17/35,"['- ', 'SINGLE WHEEL APRON WEIGHT BEARING CAPACITY 30,000 LBS FOR SW APRON, 50,000 LBS FOR NE APRON, TWY TO NE APRON 50,000 LBS.']","['Aircraft based on the field:', ' ', '217', 'Single engine airplanes:', ' ', '195', 'Multi engine airplanes:', ' ', '10', 'Helicopters:', ' ', '12']"
+8S0,"48-36-03.6000N 113-06-55.1000W
+48-36.060000N 113-06.918333W
+48.6010000,-113.1153056
+(estimated)",4656.5 ft. / 1419.3 m (surveyed),18E (1985),"5 miles NW of BROWNING, MT",UTC -7 (UTC -6 during Daylight Saving Time),59417,Open to the public,10/1961,no,SALT LAKE CITY CENTER,GREAT FALLS FLIGHT SERVICE STATION,UNATNDD,4051 x 74 ft. / 1235 x 23 m,NONE,Publicly-owned,  ,Runway 6/24,"['- ', 'FOR CD CTC SALT LAKE ARTCC AT 801-320-2568.']","['Aircraft based on the field:', ' ', '45', 'Single engine airplanes:', ' ', '38', 'Multi engine airplanes:', ' ', '5', 'Jet airplanes:', ' ', '2']"
+8S1,"47-41-43.6000N 114-11-07.0000W
+47-41.726667N 114-11.116667W
+47.6954444,-114.1852778
+(estimated)",2940.8 ft. / 896.4 m (surveyed),17E (2000),"1 mile W of POLSON, MT",UTC -7 (UTC -6 during Daylight Saving Time),59860,Open to the public,04/1940,no,SALT LAKE CITY CENTER,GREAT FALLS FLIGHT SERVICE STATION,0800-1700,"100LL JET-A+
+100LL:24 HR. SELF SERVICE FUEL AVAILIBLE.",,4194 x 75 ft. / 1278 x 23 m,4000 x 500 ft. / 1219 x 152 m,Runway 18/36,"['- ', 'COLD TEMPERATURE AIRPORT. ALTITUDE CORRECTION REQUIRED AT OR BELOW -23C.']","['Aircraft based on the field:', ' ', '32', 'Single engine airplanes:', ' ', '27', 'Multi engine airplanes:', ' ', '2', 'Jet airplanes:', ' ', '1', 'Helicopters:', ' ', '2']"
+9A3,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,"['A30A-31 ', 'RWY 13/31 FENCES, BLDGS & TREES WI 150 FT N & S OF CNTRLN.']","['Aircraft based on the field:', ' ', '383', 'Single engine airplanes:', ' ', '301', 'Multi engine airplanes:', ' ', '35', 'Jet airplanes:', ' ', '24', 'Helicopters:', ' ', '22', 'Gliders airplanes:', ' ', '1']"
+AAO,"37-44-51.2670N 097-13-16.0240W
+37-44.854450N 097-13.267067W
+37.7475742,-97.2211178
+(estimated)",1420.8 ft. / 433.1 m (surveyed),06E (2000),"9 miles NE of WICHITA, KS",UTC -6 (UTC -5 during Daylight Saving Time),67226,Open to the public,07/1944,no,KANSAS CITY CENTER,WICHITA FLIGHT SERVICE STATION,CONTINUOUS,6101 x 100 ft. / 1860 x 30 m,hangars and tiedowns,Publicly-owned,  ,Runway 18/36,"['- ', 'ARPT CLSD NGTS']","['Aircraft based on the field:', ' ', '285', 'Single engine airplanes:', ' ', '199', 'Multi engine airplanes:', ' ', '36', 'Jet airplanes:', ' ', '20', 'Helicopters:', ' ', '17', 'Gliders airplanes:', ' ', '5', 'Ultralights:', ' ', '8']"
+ABI,"32-24-40.8000N 099-40-54.8000W
+32-24.680000N 099-40.913333W
+32.4113333,-99.6818889
+(estimated)",1790.6 ft. / 545.8 m (surveyed),05E (2020),"3 miles SE of ABILENE, TX",UTC -6 (UTC -5 during Daylight Saving Time),79602,Open to the public,11/1953,yes,FORT WORTH CENTER,FORT WORTH FLIGHT SERVICE STATION,CONTINUOUS,100LL JET-A JET-A1+,,7208 x 150 ft. / 2197 x 46 m,7198 x 150 ft. / 2194 x 46 m,Runway 17R/35L,"['- ', 'AVOID LOW LEVEL FLT OVER CITY OR EAST OF RWY,']","['Aircraft based on the field:', ' ', '1', 'Single engine airplanes:', ' ', '1']"
+ABQ,"35-02-20.1536N 106-36-29.7438W
+35-02.335893N 106-36.495730W
+35.0389316,-106.6082622
+(estimated)",5354.9 ft. / 1632.2 m (surveyed),11E (1995),"3 miles SE of ALBUQUERQUE, NM",UTC -7 (UTC -6 during Daylight Saving Time),87106,Open to the public,11/1938,yes,ALBUQUERQUE CENTER,ALBUQUERQUE FLIGHT SERVICE STATION,CONTINUOUS,100LL JET-A JET-A1 JET-A1+,,13793 x 150 ft. / 4204 x 46 m,10000 x 150 ft. / 3048 x 46 m,Runway 8/26,"['- ', 'NOISE SENS ARPT WX PMTG LND RWY 13 TKOF RWY 31 FOR NOISE ABATEMENT; DUE TO THE PROXIMITY OF THE TOWN OF ALPINE & ARPT HOUSING; TOUCH & GOES ARE PROHIBITED.']","['Aircraft based on the field:', ' ', '1', 'Single engine airplanes:', ' ', '1']"
+ABR,"45-26-48.4730N 098-25-20.7870W
+45-26.807883N 098-25.346450W
+45.4467981,-98.4224408
+(estimated)",1301.9 ft. / 396.8 m (surveyed),07E (2000),"2 miles E of ABERDEEN, SD",UTC -6 (UTC -5 during Daylight Saving Time),57401,Open to the public,12/1937,no,MINNEAPOLIS CENTER,HURON FLIGHT SERVICE STATION,"MON-FRI 0330-2400L
+FOR SVCS AFTER HRS CALL (605) 225-1384/8008 OR (605)725-4774",100LL JET-A,,6901 x 100 ft. / 2103 x 30 m,5500 x 100 ft. / 1676 x 30 m,Runway 13/31,"['- ', 'RESIDENTIAL TWYS ESTAB THEIR OWN WT LMTS & RQR APVL PRIOR TO USE.']","['Aircraft based on the field:', ' ', '67', 'Single engine airplanes:', ' ', '51', 'Multi engine airplanes:', ' ', '10', 'Jet airplanes:', ' ', '2', 'Helicopters:', ' ', '2', 'Gliders airplanes:', ' ', '2']"
+ACT,"31-36-43.9000N 097-13-49.1000W
+31-36.731667N 097-13.818333W
+31.6121944,-97.2303056
+(estimated)",516.1 ft. / 157.3 m (surveyed),07E (1985),"5 miles NW of WACO, TX",UTC -6 (UTC -5 during Daylight Saving Time),76708,Open to the public,07/1943,yes,FORT WORTH CENTER,FORT WORTH FLIGHT SERVICE STATION,0430-2400,100LL JET-A UL94,,7107 x 150 ft. / 2166 x 46 m,5103 x 150 ft. / 1555 x 46 m,Runway 1/19,"['- ', 'FOR CD CTC SALT LAKE ARTCC AT 801-320-2568.']","['Aircraft based on the field:', ' ', '27', 'Single engine airplanes:', ' ', '9', 'Multi engine airplanes:', ' ', '6', 'Jet airplanes:', ' ', '11', 'Helicopters:', ' ', '1']"
+ACV,"40-58-40.1750N 124-06-30.4890W
+40-58.669583N 124-06.508150W
+40.9778264,-124.1084692
+(estimated)",222.3 ft. / 67.8 m (surveyed),17E (1985),7 miles N of central business district of the associated city,UTC -8 (UTC -7 during Daylight Saving Time),95519,Open to the public,03/1943,no,SEATTLE CENTER,OAKLAND FLIGHT SERVICE STATION,ALL 0400-2359,6046 x 150 ft. / 1843 x 46 m,tiedowns,4501 x 150 ft. / 1372 x 46 m,Publicly-owned,Runway 14/32,"['- ', 'TSNT TFC MUST CTC THE AMGR FOR INFO ON UNIQUE LCL FLYING OPNS BFR USING THE ARPT.']","['Aircraft based on the field:', ' ', '16', 'Single engine airplanes:', ' ', '12', 'Multi engine airplanes:', ' ', '1', 'Gliders airplanes:', ' ', '1', 'Ultralights:', ' ', '2']"
+ACY,"39-27-27.3000N 074-34-37.8000W
+39-27.455000N 074-34.630000W
+39.4575833,-74.5771667
+(estimated)",74.8 ft. / 22.8 m (surveyed),10W (1965),"9 miles NW of ATLANTIC CITY, NJ",UTC -5 (UTC -4 during Daylight Saving Time),8234,Open to the public,06/1943,yes,WASHINGTON CENTER,MILLVILLE FLIGHT SERVICE STATION,CONTINUOUS,100LL JET-A JET-A++,,10000 x 150 ft. / 3048 x 46 m,6144 x 150 ft. / 1873 x 46 m,Runway 13/31,"['- ', 'VOLUNTARY CURFEW DUSK TO DAWN. NGT LDGS LMTD TO AIRPARK RESIDENTS ONLY. NGT TIME LDGS AND TKFS NOT ADVS TO PILOTS UNFAMILIAR WITH TRRN. WILDLIFE ON AND INVOF OF ARPT. BIRD/WATERFOWL HAZ.']","['Aircraft based on the field:', ' ', '108', 'Single engine airplanes:', ' ', '82', 'Multi engine airplanes:', ' ', '7', 'Jet airplanes:', ' ', '2', 'Helicopters:', ' ', '5', 'Gliders airplanes:', ' ', '10', 'Ultralights:', ' ', '2']"
+ADH,"34-48-15.3431N 096-40-16.3191W
+34-48.255718N 096-40.271985W
+34.8042620,-96.6711997
+(estimated)",1015.9 ft. / 309.6 m (surveyed),03E (2020),"2 miles N of ADA, OK",UTC -6 (UTC -5 during Daylight Saving Time),74820,Open to the public,01/1943,no,FORT WORTH CENTER,MC ALESTER FLIGHT SERVICE STATION,"MON-SAT 0800-1700, ALL SUN 1200-1700",6203 x 100 ft. / 1891 x 30 m,hangars and tiedowns,2717 x 50 ft. / 828 x 15 m,40 x 40 ft. / 12 x 12 m,Runway 18/36,"['- ', 'FOR RWY COND IN WINTER CTC - AMGR.']","['Aircraft based on the field:', ' ', '118', 'Single engine airplanes:', ' ', '97', 'Multi engine airplanes:', ' ', '15', 'Helicopters:', ' ', '5', 'Gliders airplanes:', ' ', '1']"
+ADK,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,"['- ', 'VRB RWY COND AND BA WINTER MOS. SNBNK ALG RWY & TWY EDGES POSS FALL, WINT, SPRING MOS. TREACHEROUS MTN TERR IN CLOSE PROXIMITY ALL QUADS OF RWY.']","['Aircraft based on the field:', ' ', '89', 'Single engine airplanes:', ' ', '48', 'Multi engine airplanes:', ' ', '2', 'Jet airplanes:', ' ', '22', 'Helicopters:', ' ', '13', 'Gliders airplanes:', ' ', '4']"
+ADM,"34-18-13.9444N 097-01-14.1506W
+34-18.232407N 097-01.235843W
+34.3038734,-97.0205974
+(estimated)",776.7 ft. / 236.7 m (surveyed),06E (1995),"10 miles NE of ARDMORE, OK",UTC -6 (UTC -5 during Daylight Saving Time),73401,Open to the public,08/1943,yes,FORT WORTH CENTER,MC ALESTER FLIGHT SERVICE STATION,"MON-FRI 0700-2300, ALL SAT-SUN 0700-1700",100LL JET-A,,9002 x 150 ft. / 2744 x 46 m,5404 x 100 ft. / 1647 x 30 m,Runway 13/31,"['Ownership: ', 'Publicly-owned']","['Aircraft based on the field:', ' ', '15', 'Single engine airplanes:', ' ', '14', 'Jet airplanes:', ' ', '1']"
+ADQ,"57-44-59.2580N 152-29-38.1970W
+57-44.987633N 152-29.636617W
+57.7497939,-152.4939436
+(estimated)",78.7 ft. / 24.0 m (surveyed),14E (2020),"4 miles SW of KODIAK, AK",UTC -9 (UTC -8 during Daylight Saving Time),99615,Open to the public,04/1948,yes,ANCHORAGE CENTER,KENAI FLIGHT SERVICE STATION [907-283-7211],"SAME AS ARPT MAINT HRS
+FOR INFORMATION ON ARPT CALL 907-487-4952 MON-FRI 0700-1630.",100LL JET-A1,,7534 x 150 ft. / 2296 x 46 m,5400 x 150 ft. / 1646 x 46 m,Runway 8/26,"['Owner: ', 'CITY OF COCHRAN\nCITY HALL, PO BOX 8\nCOCHRAN, GA 31014\nPhone 478-934-6346']","['Aircraft based on the field:', ' ', '93', 'Single engine airplanes:', ' ', '87', 'Multi engine airplanes:', ' ', '1', 'Helicopters:', ' ', '5']"
+ADS,"32-58-06.8000N 096-50-11.2000W
+32-58.113333N 096-50.186667W
+32.9685556,-96.8364444
+(estimated)",644.6 ft. / 196.5 m (surveyed),03E (2025),"9 miles N of DALLAS, TX",UTC -6 (UTC -5 during Daylight Saving Time),75001,Open to the public,11/1956,yes,FORT WORTH CENTER,FORT WORTH FLIGHT SERVICE STATION,0600-2200,100LL JET-A,,7203 x 100 ft. / 2195 x 30 m,Publicly-owned,Runway 16/34,"['Manager: ', 'JIM WASHBURN\n829 GA HWY 126\nCOCHRAN, GA 31014\nPhone 478-291-6582\nALT PHONE 478-230-7843']","['Aircraft based on the field:', ' ', '19', 'Single engine airplanes:', ' ', '16', 'Multi engine airplanes:', ' ', '3']"
+AEG,"35-08-41.6740N 106-47-42.6260W
+35-08.694567N 106-47.710433W
+35.1449094,-106.7951739
+(estimated)",5837.4 ft. / 1779.2 m (surveyed),11E (1990),"7 miles NW of ALBUQUERQUE, NM",UTC -7 (UTC -6 during Daylight Saving Time),87121,Open to the public,08/1983,yes,ALBUQUERQUE CENTER,ALBUQUERQUE FLIGHT SERVICE STATION,"0600-1900
+FOR ATTENDANT AFT HRS CALL 505-884-4530.","100LL JET-A1
+100LL:100LL AVBL 24 HRS SELF-SERVICE WITH MAJOR CREDIT CARD.
+A1:$150 CALL-OUT FEE FOR JET A1.",,7398 x 100 ft. / 2255 x 30 m,5983 x 100 ft. / 1824 x 30 m,Runway 4/22,"['- ', 'FREQUENT VEHICULAR TFC AER 7.']","['Aircraft based on the field:', ' ', '112', 'Single engine airplanes:', ' ', '99', 'Multi engine airplanes:', ' ', '5', 'Jet airplanes:', ' ', '1', 'Helicopters:', ' ', '4', 'Gliders airplanes:', ' ', '3']"
+AFW,"32-59-25.3890N 097-19-09.9860W
+32-59.423150N 097-19.166433W
+32.9903858,-97.3194406
+(estimated)",723 ft. / 220.4 m (surveyed),04E (2015),"14 miles N of FORT WORTH, TX",UTC -6 (UTC -5 during Daylight Saving Time),76177,Open to the public,12/1989,yes,FORT WORTH CENTER,FORT WORTH FLIGHT SERVICE STATION,CONTINUOUS,100LL JET-A1+,,11010 x 150 ft. / 3356 x 46 m,11000 x 150 ft. / 3353 x 46 m,Runway 16R/34L,"['- ', 'BLUE EXIT LGTS AT 3 TURNOFFS.']","['Aircraft based on the field:', ' ', '3', 'Single engine airplanes:', ' ', '3']"
+AGC,"40-21-15.9755N 079-55-44.5680W
+40-21.266258N 079-55.742800W
+40.3544376,-79.9290467
+(estimated)",1251.5 ft. / 381.5 m (surveyed),09W (2000),"4 miles SE of PITTSBURGH, PA",UTC -5 (UTC -4 during Daylight Saving Time),15122,Open to the public,11/1937,yes,CLEVELAND CENTER,ALTOONA FLIGHT SERVICE STATION,CONTINUOUS,6501 x 150 ft. / 1982 x 46 m,hangars and tiedowns,3825 x 100 ft. / 1166 x 30 m,47 x 45 ft. / 14 x 14 m,Runway 10/28,"['- ', 'FOR CD CTC SEATTLE ARTCC AT 253-351-3694.']","['Aircraft based on the field:', ' ', '94', 'Single engine airplanes:', ' ', '82', 'Multi engine airplanes:', ' ', '8', 'Helicopters:', ' ', '2', 'Gliders airplanes:', ' ', '1', 'Ultralights:', ' ', '1']"
+AGS,"33-22-11.8000N 081-57-52.2000W
+33-22.196667N 081-57.870000W
+33.3699444,-81.9645000
+(estimated)",145.7 ft. / 44.4 m (surveyed),04W (1990),"6 miles S of AUGUSTA, GA",UTC -5 (UTC -4 during Daylight Saving Time),30906,Open to the public,10/1943,yes,ATLANTA CENTER,MACON FLIGHT SERVICE STATION,CONTINUOUS,100LL JET-A,,8001 x 150 ft. / 2439 x 46 m,6002 x 75 ft. / 1829 x 23 m,Runway 17/35,"['- ', 'HOOD RIVER ARPT IS A NOISE SENS AREA. PLS FLW THE FLY FRIENDLY SIGNS AT RWY ENDS AND AVOID LOW FLT.']","['Aircraft based on the field:', ' ', '26', 'Single engine airplanes:', ' ', '20', 'Multi engine airplanes:', ' ', '3', 'Helicopters:', ' ', '3']"
+AHN,"33-56-55.1050N 083-19-33.2910W
+33-56.918417N 083-19.554850W
+33.9486403,-83.3259142
+(estimated)",812.2 ft. / 247.6 m (surveyed),06W (2020),"3 miles E of ATHENS, GA",UTC -5 (UTC -4 during Daylight Saving Time),30605,Open to the public,07/1940,yes,ATLANTA CENTER,MACON FLIGHT SERVICE STATION,0600-2100,100LL JET-A JET-A1,,6122 x 100 ft. / 1866 x 30 m,3995 x 100 ft. / 1218 x 30 m,Runway 9/27,"['- ', 'COLD TEMPERATURE AIRPORT. ALTITUDE CORRECTION REQUIRED AT OR BELOW -7C.']","['Aircraft based on the field:', ' ', '12', 'Single engine airplanes:', ' ', '10', 'Multi engine airplanes:', ' ', '2']"
+AIK,"33-38-57.8000N 081-41-06.1000W
+33-38.963333N 081-41.101667W
+33.6493889,-81.6850278
+(estimated)",528.5 ft. / 161.1 m (surveyed),06W (2010),"5 miles N of AIKEN, SC",UTC -5 (UTC -4 during Daylight Saving Time),29805,Open to the public,01/1943,no,ATLANTA CENTER,ANDERSON FLIGHT SERVICE STATION,0600-1800,100LL JET-A,,5500 x 100 ft. / 1676 x 30 m,3800 x 75 ft. / 1158 x 23 m,Runway 7/25,"['- ', 'FOR CD CTC SEATTLE ARTCC AT 253-351-3694.']","['Aircraft based on the field:', ' ', '37', 'Single engine airplanes:', ' ', '16', 'Multi engine airplanes:', ' ', '11', 'Jet airplanes:', ' ', '5', 'Helicopters:', ' ', '5']"
+AIT,"46-32-54.4630N 093-40-35.8758W
+46-32.907717N 093-40.597930W
+46.5484619,-93.6766322
+(estimated)",1206 ft. / 367.6 m (surveyed),00E (2015),"2 miles NE of AITKIN, MN",UTC -6 (UTC -5 during Daylight Saving Time),56431,Open to the public,11/1946,no,MINNEAPOLIS CENTER,PRINCETON FLIGHT SERVICE STATION,"APR-OCT 0800-1700, NOV-MAR MON-FRI 0900-1700","100LL JET-A
+100LL:100LL & JET A AVBL H24 VIA CREDIT CARD. FOR SVC CALL 218-839-1067 OR 218-839-6488.",,4000 x 75 ft. / 1219 x 23 m,3123 x 140 ft. / 952 x 43 m,Runway 16/34,"['- ', 'FOR CD CTC VANCE APCH AT 580-213-6765. WHEN VANCE APCH IS CLSD, CTC KANSAS CITY ARTCC AT 913-254-8508.']","['Aircraft based on the field:', ' ', '13', 'Single engine airplanes:', ' ', '12', 'Multi engine airplanes:', ' ', '1']"
+AIZ,"38-05-45.7000N 092-32-58.1000W
+38-05.761667N 092-32.968333W
+38.0960278,-92.5494722
+(estimated)",868.9 ft. / 264.8 m (surveyed),00E (2015),3 miles SE of central business district of the associated city,UTC -6 (UTC -5 during Daylight Saving Time),65017,Open to the public,no,KANSAS CITY CENTER,COLUMBIA FLIGHT SERVICE STATION,AIZ (NOTAM-D service available),lighted,6497 x 100 ft. / 1980 x 30 m,tiedowns,Publicly-owned,  ,Runway 4/22,"['Aircraft based on the field:   10\nSingle engine airplanes:   10', 'Aircraft based on the field:', ' ', '10', 'Single engine airplanes:', ' ', '10', '  ', '', '  ', 'Aircraft operations: avg 69/week *\n56%  local general aviation\n28%  transient general aviation\n17%  air taxi\n* for 12-month period ending 20 July 2019', 'Aircraft operations: avg 69/week *', '56% ', 'local general aviation', '28% ', 'transient general aviation', '17% ', 'air taxi', '* for 12-month period ending 20 July 2019']","['Aircraft based on the field:', ' ', '9', 'Single engine airplanes:', ' ', '5', 'Multi engine airplanes:', ' ', '3', 'Jet airplanes:', ' ', '1']"
+AK15,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,"['- ', 'REPAIR SVC ATTENDED WEEKDAYS 0800-1700 LCL.']","['Aircraft based on the field:', ' ', '157', 'Single engine airplanes:', ' ', '121', 'Multi engine airplanes:', ' ', '13', 'Jet airplanes:', ' ', '7', 'Helicopters:', ' ', '7', 'Ultralights:', ' ', '9']"
+ALM,"32-50-21.9000N 105-59-28.1000W
+32-50.365000N 105-59.468333W
+32.8394167,-105.9911389
+(estimated)",4199.9 ft. / 1280.1 m (surveyed),08E (2020),"4 miles SW of ALAMOGORDO, NM",UTC -7 (UTC -6 during Daylight Saving Time),88310,Open to the public,10/1959,no,ALBUQUERQUE CENTER,ALBUQUERQUE FLIGHT SERVICE STATION,"0700-1700
+FOR ACFT SVC AFT HRS CALL 575-437-2474.",9207 x 150 ft. / 2806 x 46 m,hangars and tiedowns,3257 x 190 ft. / 993 x 58 m,Publicly-owned,Runway 4/22,"['- ', 'MIGRATORY WATERFOWL ON & INVOF ARPT.']","['Aircraft based on the field:', ' ', '22', 'Single engine airplanes:', ' ', '21', 'Gliders airplanes:', ' ', '1']"
+ALS,"37-26-06.4500N 105-52-04.3510W
+37-26.107500N 105-52.072517W
+37.4351250,-105.8678753
+(estimated)",7539.8 ft. / 2298.1 m (surveyed),09E (2010),"2 miles S of ALAMOSA, CO",UTC -7 (UTC -6 during Daylight Saving Time),81101,Open to the public,03/1941,no,DENVER CENTER,DENVER FLIGHT SERVICE STATION,"0800-1930
+ON CALL - 719-587-5335.",8521 x 100 ft. / 2597 x 30 m,hangars and tiedowns,Publicly-owned,  ,Runway 2/20,"['- ', 'FOR CD CTC BILLINGS APCH AT 406-255-2798']","['Aircraft based on the field:', ' ', '98', 'Single engine airplanes:', ' ', '78', 'Multi engine airplanes:', ' ', '9', 'Jet airplanes:', ' ', '2', 'Helicopters:', ' ', '7', 'Gliders airplanes:', ' ', '2']"
+ALW,"46-05-33.1500N 118-17-02.6970W
+46-05.552500N 118-17.044950W
+46.0925417,-118.2840825
+(estimated)",1194.4 ft. / 364.1 m (surveyed),14E (2025),"3 miles NE of WALLA WALLA, WA",UTC -8 (UTC -7 during Daylight Saving Time),99362,Open to the public,10/1937,yes,SEATTLE CENTER,SEATTLE FLIGHT SERVICE STATION,0800-1800,"100LL JET-A
+100LL:SELF SVC CREDIT CARD FUELING FACILITY LCTD 600 FT N OF ATCT.",,6527 x 150 ft. / 1989 x 46 m,Publicly-owned,Runway 2/20,"['- ', 'FOR CD CTC SALT LAKE ARTCC AT 801-320-2568.']","['Aircraft based on the field:', ' ', '3', 'Single engine airplanes:', ' ', '3']"
+AMA,"35-13-09.7000N 101-42-21.3000W
+35-13.161667N 101-42.355000W
+35.2193611,-101.7059167
+(estimated)",3606.7 ft. / 1099.3 m (surveyed),08E (2000),"7 miles E of AMARILLO, TX",UTC -6 (UTC -5 during Daylight Saving Time),79108,Open to the public,10/1937,yes,ALBUQUERQUE CENTER,FORT WORTH FLIGHT SERVICE STATION,CONTINUOUS,100LL JET-A1+,,13502 x 200 ft. / 4115 x 61 m,7901 x 150 ft. / 2408 x 46 m,Runway 4/22,"['- ', 'RWY 17/35 IS LTD BY THE ARPT OPR TO ACFT MAX GWT TKOF 40000 LBS SW AND 53000 LBS DW WO PPR.']","['Aircraft based on the field:', ' ', '88', 'Single engine airplanes:', ' ', '55', 'Multi engine airplanes:', ' ', '23', 'Jet airplanes:', ' ', '8', 'Helicopters:', ' ', '2']"
+ANC,"61-10-26.7050N 149-59-53.2950W
+61-10.445083N 149-59.888250W
+61.1740847,-149.9981375
+(estimated)",151.4 ft. / 46.1 m (surveyed),16E (2020),"4 miles SW of ANCHORAGE, AK",UTC -9 (UTC -8 during Daylight Saving Time),99502,Open to the public,11/1951,yes,ANCHORAGE CENTER,KENAI FLIGHT SERVICE STATION [907-283-7211],CONTINUOUS,12400 x 200 ft. / 3780 x 61 m,hangars and tiedowns,10865 x 200 ft. / 3312 x 61 m,10600 x 150 ft. / 3231 x 46 m,Runway 7R/25L,"['Aircraft based on the field:   26\nSingle engine airplanes:   26', 'Aircraft based on the field:', ' ', '26', 'Single engine airplanes:', ' ', '26', '  ', '', '  ', 'Aircraft operations: avg 25/day *\n44%  transient general aviation\n39%  local general aviation\n17%  air taxi\n* for 12-month period ending 31 December 2019', 'Aircraft operations: avg 25/day *', '44% ', 'transient general aviation', '39% ', 'local general aviation', '17% ', 'air taxi', '* for 12-month period ending 31 December 2019']","['Aircraft based on the field:', ' ', '19', 'Single engine airplanes:', ' ', '17', 'Jet airplanes:', ' ', '1', 'Helicopters:', ' ', '1']"
+ANE,"45-08-41.6000N 093-12-36.7000W
+45-08.693333N 093-12.611667W
+45.1448889,-93.2101944
+(estimated)",912.2 ft. / 278.0 m (surveyed),02E (2000),"10 miles N of MINNEAPOLIS, MN",UTC -6 (UTC -5 during Daylight Saving Time),55449,Open to the public,11/1952,yes,MINNEAPOLIS CENTER,PRINCETON FLIGHT SERVICE STATION,CONTINUOUS,"100LL JET-A
+A:JET A AVBL AT FBOS SUBJ LDG FEE CTC FBO.
+100LL:100LL AVBL H24 VIA CREDIT CARD AT LYNX SOUTH RAMP.",,5000 x 100 ft. / 1524 x 30 m,4855 x 100 ft. / 1480 x 30 m,Runway 9/27,"['- ', 'RY 34 CALM WIND RY.']","['Aircraft based on the field:', ' ', '28', 'Single engine airplanes:', ' ', '21', 'Multi engine airplanes:', ' ', '3', 'Helicopters:', ' ', '4']"
+APA,"39-34-12.4270N 104-50-57.4550W
+39-34.207117N 104-50.957583W
+39.5701186,-104.8492931
+(estimated)",5884.9 ft. / 1793.7 m (surveyed),08E (2015),"15 miles SE of DENVER, CO",UTC -7 (UTC -6 during Daylight Saving Time),80112,Open to the public,03/1968,yes,DENVER CENTER,DENVER FLIGHT SERVICE STATION,CONTINUOUS,10001 x 100 ft. / 3048 x 30 m,hangars and tiedowns,7001 x 75 ft. / 2134 x 23 m,4800 x 75 ft. / 1463 x 23 m,Runway 17L/35R,"['- ', 'PAEW ADJ TO RY 16/34 WKENDS 0800-1600.']","['Aircraft based on the field:', ' ', '20', 'Single engine airplanes:', ' ', '13', 'Multi engine airplanes:', ' ', '2', 'Jet airplanes:', ' ', '5']"
+APC,"38-12-47.4810N 122-16-50.4740W
+38-12.791350N 122-16.841233W
+38.2131892,-122.2806872
+(estimated)",35.5 ft. / 10.8 m (surveyed),15E (2005),"5 miles S of NAPA, CA",UTC -8 (UTC -7 during Daylight Saving Time),94558,Open to the public,10/1944,yes,OAKLAND CENTER,OAKLAND FLIGHT SERVICE STATION,0700-2000,5930 x 150 ft. / 1807 x 46 m,tiedowns,5008 x 150 ft. / 1526 x 46 m,2510 x 75 ft. / 765 x 23 m,Runway 1L/19R,"['- ', 'BIRDS ON AND INVOF ARPT. BE AWARE MOWING ADJ RY16/34 WEEKDAYS.']","['Aircraft based on the field:', ' ', '10', 'Single engine airplanes:', ' ', '8', 'Multi engine airplanes:', ' ', '2']"
+APF,"26-09-08.7869N 081-46-32.3011W
+26-09.146448N 081-46.538352W
+26.1524408,-81.7756392
+(estimated)",8.3 ft. / 2.5 m (surveyed),03W (1995),"2 miles NE of NAPLES, FL",UTC -5 (UTC -4 during Daylight Saving Time),34104,Open to the public,07/1944,yes,MIAMI CENTER,MIAMI FLIGHT SERVICE STATION,0600-2200,6600 x 150 ft. / 2012 x 46 m,hangars and tiedowns,5001 x 100 ft. / 1524 x 30 m,1850 x 100 ft. / 564 x 30 m,Runway 5/23,"['- ', 'BE AWARE OF SKYDIVERS CROSSING RY.']","['Aircraft based on the field:', ' ', '90', 'Single engine airplanes:', ' ', '80', 'Multi engine airplanes:', ' ', '4', 'Jet airplanes:', ' ', '2', 'Helicopters:', ' ', '3', 'Gliders airplanes:', ' ', '1']"
+APV,"34-34-31.2000N 117-11-10.3000W
+34-34.520000N 117-11.171667W
+34.5753333,-117.1861944
+(estimated)",3061.7 ft. / 933.2 m (surveyed),14E (2000),"3 miles N of APPLE VALLEY, CA",UTC -8 (UTC -7 during Daylight Saving Time),92307,Open to the public,02/1970,no,LOS ANGELES CENTER,RIVERSIDE FLIGHT SERVICE STATION,0800-1700,6498 x 150 ft. / 1981 x 46 m,tiedowns,4099 x 60 ft. / 1249 x 18 m,Publicly-owned,Runway 18/36,"['- ', 'PARACHUTE JUMP AREA LOCATED EAST SIDE OF ARPT.']","['Aircraft based on the field:', ' ', '17', 'Single engine airplanes:', ' ', '14', 'Multi engine airplanes:', ' ', '2', 'Helicopters:', ' ', '1']"
+AQO,"30-47-03.2000N 098-39-35.6000W
+30-47.053333N 098-39.593333W
+30.7842222,-98.6598889
+(estimated)",1101.7 ft. / 335.8 m (surveyed),05E (2010),"2 miles NE of LLANO, TX",UTC -6 (UTC -5 during Daylight Saving Time),78643,Open to the public,04/1944,no,HOUSTON CENTER,SAN ANGELO FLIGHT SERVICE STATION,"FRI-MON 0700-1700, ALL TUE-THU 0800-1700",4202 x 75 ft. / 1281 x 23 m,hangars and tiedowns,3209 x 150 ft. / 978 x 46 m,Publicly-owned,Runway 17/35,"['- ', 'CTC NUMBER FOR INFO AND UPDATES ABOUT SKYDIVING OPS 541-895-3029.']","['Aircraft based on the field:', ' ', '13', 'Single engine airplanes:', ' ', '11', 'Multi engine airplanes:', ' ', '1', 'Gliders airplanes:', ' ', '1']"
+AQW,"42-41-46.5137N 073-10-13.9910W
+42-41.775228N 073-10.233183W
+42.6962538,-73.1705531
+(estimated)",653.8 ft. / 199.3 m (surveyed),14W (1985),"3 miles W of NORTH ADAMS, MA",UTC -5 (UTC -4 during Daylight Saving Time),1247,Open to the public,10/1944,no,BOSTON CENTER,BURLINGTON FLIGHT SERVICE STATION,0800-1630,100LL JET-A,,4300 x 100 ft. / 1311 x 30 m,Publicly-owned,Runway 11/29,"['- ', 'FOR CD CTC CASCADE APCH AT 541-607-4674/4675, WHEN APCH CLSD CTC SEATTLE ARTCC AT 253-351-3694.']","['Aircraft based on the field:', ' ', '48', 'Single engine airplanes:', ' ', '40', 'Multi engine airplanes:', ' ', '5', 'Jet airplanes:', ' ', '1', 'Helicopters:', ' ', '1', 'Ultralights:', ' ', '1']"
+ASE,"39-13-18.8000N 106-52-05.6000W
+39-13.313333N 106-52.093333W
+39.2218889,-106.8682222
+(estimated)",7837.9 ft. / 2389.0 m (surveyed),09E (2015),"3 miles NW of ASPEN, CO",UTC -7 (UTC -6 during Daylight Saving Time),81611,Open to the public,03/1949,yes,DENVER CENTER,DENVER FLIGHT SERVICE STATION,0700-2300,8006 x 100 ft. / 2440 x 30 m,hangars and tiedowns,Publicly-owned,  ,Runway 15/33,"['Aircraft based on the field:   31\nSingle engine airplanes:   31', 'Aircraft based on the field:', ' ', '31', 'Single engine airplanes:', ' ', '31', '  ', '', '  ', 'Aircraft operations: avg 93/week *\n54%  local general aviation\n41%  transient general aviation\n5%  air taxi\n* for 12-month period ending 27 June 2019', 'Aircraft operations: avg 93/week *', '54% ', 'local general aviation', '41% ', 'transient general aviation', '5% ', 'air taxi', '* for 12-month period ending 27 June 2019']","['Aircraft based on the field:', ' ', '11', 'Single engine airplanes:', ' ', '11']"
+AST,"46-09-28.7000N 123-52-43.0000W
+46-09.478333N 123-52.716667W
+46.1579722,-123.8786111
+(estimated)",14.3 ft. / 4.4 m (surveyed),15E (2020),"3 miles SW of ASTORIA, OR",UTC -8 (UTC -7 during Daylight Saving Time),97146,Open to the public,07/1938,no,SEATTLE CENTER,MC MINNVILLE FLIGHT SERVICE STATION,"0800-1700
+FOR FUEL OUTSIDE NML WORKING HRS CTC FBO 503-298-7531.",5794 x 100 ft. / 1766 x 30 m,tiedowns,4467 x 100 ft. / 1362 x 30 m,Publicly-owned,Runway 8/26,"['- ', 'IRREG SNOW REMOVAL.']","['Aircraft based on the field:', ' ', '41', 'Single engine airplanes:', ' ', '28', 'Multi engine airplanes:', ' ', '3', 'Helicopters:', ' ', '8', 'Gliders airplanes:', ' ', '2']"
+ATW,"44-15-29.1350N 088-31-08.6600W
+44-15.485583N 088-31.144333W
+44.2580931,-88.5190722
+(estimated)",918 ft. / 279.8 m (surveyed),02W (1995),"3 miles W of APPLETON, WI",UTC -6 (UTC -5 during Daylight Saving Time),54914,Open to the public,05/1965,yes,MINNEAPOLIS CENTER,GREEN BAY FLIGHT SERVICE STATION,CONTINUOUS,100LL JET-A,,8003 x 150 ft. / 2439 x 46 m,6502 x 150 ft. / 1982 x 46 m,Runway 3/21,"['- ', 'LIVESTOCK ON & INVOF ARPT.']","['Aircraft based on the field:', ' ', '31', 'Single engine airplanes:', ' ', '24', 'Multi engine airplanes:', ' ', '5', 'Jet airplanes:', ' ', '1', 'Helicopters:', ' ', '1']"
+AUM,"43-39-45.5000N 092-55-58.5000W
+43-39.758333N 092-55.975000W
+43.6626389,-92.9329167
+(estimated)",1233.5 ft. / 376.0 m (surveyed),00E (2020),"2 miles E of AUSTIN, MN",UTC -6 (UTC -5 during Daylight Saving Time),55912,Open to the public,04/1940,no,MINNEAPOLIS CENTER,PRINCETON FLIGHT SERVICE STATION,"SAT 0800-1600, ALL SUN 0900-1500, ALL MON-FRI 0800-1700",5800 x 100 ft. / 1768 x 30 m,hangars and tiedowns,Publicly-owned,  ,Runway 17/35,"['- ', 'FOR CD CTC SALT LAKE ARTCC AT 801-320-2568.']","['Aircraft based on the field:', ' ', '60', 'Single engine airplanes:', ' ', '57', 'Multi engine airplanes:', ' ', '1', 'Helicopters:', ' ', '2']"
+AUN,"38-57-17.4000N 121-04-54.2000W
+38-57.290000N 121-04.903333W
+38.9548333,-121.0817222
+(estimated)",1538.4 ft. / 468.9 m (surveyed),16E (1995),"3 miles N of AUBURN, CA",UTC -8 (UTC -7 during Daylight Saving Time),95602,Open to the public,05/1941,no,OAKLAND CENTER,RANCHO MURIETA FLIGHT SERVICE STATION,0800-1800,3700 x 75 ft. / 1128 x 23 m,hangars and tiedowns,Publicly-owned,  ,Runway 7/25,"['Ownership: ', 'Publicly-owned']","['Aircraft based on the field:', ' ', '277', 'Single engine airplanes:', ' ', '257', 'Multi engine airplanes:', ' ', '7', 'Helicopters:', ' ', '5', 'Gliders airplanes:', ' ', '8']"
+AUS,"30-11-40.2980N 097-40-11.5540W
+30-11.671633N 097-40.192567W
+30.1945272,-97.6698761
+(estimated)",541.5 ft. / 165.0 m (surveyed),04E (2020),"5 miles SE of AUSTIN, TX",UTC -6 (UTC -5 during Daylight Saving Time),78719,Open to the public,07/1943,yes,HOUSTON CENTER,SAN ANGELO FLIGHT SERVICE STATION,CONTINUOUS,12250 x 150 ft. / 3734 x 46 m,hangars and tiedowns,9000 x 150 ft. / 2743 x 46 m,60 x 60 ft. / 18 x 18 m,Runway 18R/36L,"['Owner: ', 'CITY OF POLSON & LAKE COUNTY\n106 4TH AVE E\nPOLSON, MT 59860\nPhone 406-249-1683']","['Aircraft based on the field:', ' ', '39', 'Single engine airplanes:', ' ', '37', 'Multi engine airplanes:', ' ', '2']"
+AVL,"35-26-10.0070N 082-32-31.3710W
+35-26.166783N 082-32.522850W
+35.4361131,-82.5420475
+(estimated)",2163.9 ft. / 659.6 m (surveyed),07W (2020),"9 miles S of ASHEVILLE, NC",UTC -5 (UTC -4 during Daylight Saving Time),28704,Open to the public,01/1961,yes,ATLANTA CENTER,RALEIGH FLIGHT SERVICE STATION,CONTINUOUS,100LL JET-A,,8002 x 150 ft. / 2439 x 46 m,Publicly-owned,Runway 17/35,"['Manager: ', 'VINCE JENNISON\n470 REGATTA RD\nPOLSON, MT 59860\nPhone 406-883-2482']","['Aircraft based on the field:', ' ', '71', 'Single engine airplanes:', ' ', '53', 'Multi engine airplanes:', ' ', '16', 'Helicopters:', ' ', '2']"
+AVQ,"32-24-34.4000N 111-13-06.2000W
+32-24.573333N 111-13.103333W
+32.4095556,-111.2183889
+(estimated)",2031.5 ft. / 619.2 m (surveyed),12E (2000),"15 miles NW of MARANA, AZ",UTC -7 (year round; does not observe DST),85653,Open to the public,no,ALBUQUERQUE CENTER,PRESCOTT FLIGHT SERVICE STATION,PRC (NOTAM-D service available),lighted,100LL JET-A,,6901 x 100 ft. / 2103 x 30 m,3892 x 75 ft. / 1186 x 23 m,Runway 12/30,"['- ', 'ATNDD CONSY.']","['Aircraft based on the field:', ' ', '33', 'Single engine airplanes:', ' ', '29', 'Multi engine airplanes:', ' ', '1', 'Jet airplanes:', ' ', '1', 'Helicopters:', ' ', '2']"
+AWO,"48-09-38.7000N 122-09-32.5000W
+48-09.645000N 122-09.541667W
+48.1607500,-122.1590278
+(estimated)",141.8 ft. / 43.2 m (surveyed),17E (2010),"3 miles SW of ARLINGTON, WA",UTC -8 (UTC -7 during Daylight Saving Time),98223,Open to the public,08/1937,no,SEATTLE CENTER,SEATTLE FLIGHT SERVICE STATION,M-F 0800-1700,"100LL JET-A
+A:PHONE 360-435-5700 FOR AFTER HRS SVC.
+100LL:100L FUEL AVBL 24 HR CREDIT CARD SVC.",,5332 x 100 ft. / 1625 x 30 m,3498 x 75 ft. / 1066 x 23 m,Runway 16/34,"['- ', 'USE CTN FOR MCCONNELL AFB 9 MILES S AND BEECH FACTORY ARPT 3 MILES S.']","['Aircraft based on the field:', ' ', '102', 'Single engine airplanes:', ' ', '80', 'Multi engine airplanes:', ' ', '12', 'Jet airplanes:', ' ', '1', 'Helicopters:', ' ', '1', 'Military aircraft:', ' ', '8']"
+AYPY,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,"['- ', 'BEECH FACTORY ARPT CLASS D ASP BEGINS 1 MILE S OF RWY 18 DER.']","['Aircraft based on the field:', ' ', '92', 'Single engine airplanes:', ' ', '82', 'Multi engine airplanes:', ' ', '6', 'Jet airplanes:', ' ', '3', 'Helicopters:', ' ', '1']"
+AZE,"31-53-06.6847N 082-38-52.4076W
+31-53.111412N 082-38.873460W
+31.8851902,-82.6478910
+(estimated)",255.2 ft. / 77.8 m (surveyed),06W (2020),"3 miles NW of HAZLEHURST, GA",UTC -5 (UTC -4 during Daylight Saving Time),31539,Open to the public,08/1963,no,JACKSONVILLE CENTER,MACON FLIGHT SERVICE STATION,"MON-FRI 0800-1700
+ARPT PHONE AFTER HRS 912-347-8183.","100LL JET-A+
+100LL:FUEL 24 HR CREDIT CARD SVC AVBL.",,5012 x 75 ft. / 1528 x 23 m,Publicly-owned,Runway 14/32,"['- ', 'SOUTHERLY AND SOUTHEASTERLY VFR ARR AND DEP NOT RCMDD WO ATC RADAR SVCS DUE TO BEECH FACTORY ARPT AND MCCONNELL CLASS D AFB ASP.']","['Aircraft based on the field:', ' ', '68', 'Single engine airplanes:', ' ', '56', 'Multi engine airplanes:', ' ', '9', 'Jet airplanes:', ' ', '1', 'Helicopters:', ' ', '2']"
+BAK,"39-15-42.8940N 085-53-46.8200W
+39-15.714900N 085-53.780333W
+39.2619150,-85.8963389
+(estimated)",656.1 ft. / 200.0 m (surveyed),03W (1995),"3 miles N of COLUMBUS, IN",UTC -5 (UTC -4 during Daylight Saving Time),47203,Open to the public,02/1944,yes,INDIANAPOLIS CENTER,TERRE HAUTE FLIGHT SERVICE STATION,"0600-2000
+AFT HR - 812-372-1819.",100LL JET-A,,6401 x 150 ft. / 1951 x 46 m,5000 x 100 ft. / 1524 x 30 m,Runway 5/23,"['- ', 'VFR ARR AND DEP ARE RCMDD TO RMN AOB 2500 FT MSL WITHIN 5 MILES DUE TO HEAVY MIL TFC AOA 3000 FT MSL.']","['Aircraft based on the field:', ' ', '101', 'Single engine airplanes:', ' ', '86', 'Multi engine airplanes:', ' ', '15']"
+BAM,"40-35-56.6000N 116-52-27.6000W
+40-35.943333N 116-52.460000W
+40.5990556,-116.8743333
+(estimated)",4536.1 ft. / 1382.6 m (surveyed),13E (2020),"3 miles SE of BATTLE MOUNTAIN, NV",UTC -8 (UTC -7 during Daylight Saving Time),89820,Open to the public,02/1944,no,SALT LAKE CITY CENTER,RENO FLIGHT SERVICE STATION,"OCT-MAY 0700-1700, JUN-SEP 0700-1800
+AFT HRS CALL (775) 635-2245.",7300 x 150 ft. / 2225 x 46 m,hangars and tiedowns,7299 x 100 ft. / 2225 x 30 m,60 x 60 ft. / 18 x 18 m,Runway 4/22,"['- ', 'MIGRATORY BIRDS INVOF ARPT.']","['Aircraft based on the field:', ' ', '37', 'Single engine airplanes:', ' ', '17', 'Jet airplanes:', ' ', '19', 'Helicopters:', ' ', '1']"
+BBG,"36-31-55.4970N 093-12-01.9600W
+36-31.924950N 093-12.032667W
+36.5320825,-93.2005444
+(estimated)",1302 ft. / 397 m (estimated),02E (2010),"8 miles SSE of BRANSON, MO",UTC -6 (UTC -5 during Daylight Saving Time),65739,Open to the public,10/2008,yes,KANSAS CITY CENTER,COLUMBIA FLIGHT SERVICE STATION,CONTINUOUS,7140 x 150 ft. / 2176 x 46 m,hangars,Publicly-owned,  ,Runway 14/32,"['- ', 'DUE TO 20 FT RWY END ELEV DIFFERENTIAL, PILOTS MAY LOSE LINE OF SIGHT OF OTHER ACFT ON OPPOSING RWY ENDS.']","['Aircraft based on the field:', ' ', '122', 'Single engine airplanes:', ' ', '89', 'Multi engine airplanes:', ' ', '23', 'Jet airplanes:', ' ', '2', 'Helicopters:', ' ', '8']"
+BCT,"26-22-42.5480N 080-06-27.7070W
+26-22.709133N 080-06.461783W
+26.3784856,-80.1076964
+(estimated)",12.9 ft. / 3.9 m (surveyed),05W (2000),"2 miles NW of BOCA RATON, FL",UTC -5 (UTC -4 during Daylight Saving Time),33431,Open to the public,04/1940,yes,MIAMI CENTER,MIAMI FLIGHT SERVICE STATION,CONTINUOUS,100LL JET-A,,6276 x 150 ft. / 1913 x 46 m,Publicly-owned,Runway 5/23,"['- ', 'NOISE SENSITIVE AREAS S, SW, AND W.']","['Aircraft based on the field:', ' ', '9', 'Single engine airplanes:', ' ', '7', 'Multi engine airplanes:', ' ', '2']"
+BDL,"41-56-20.5160N 072-41-03.5370W
+41-56.341933N 072-41.058950W
+41.9390322,-72.6843158
+(estimated)",173.3 ft. / 52.8 m (surveyed),14W (1980),"3 miles W of WINDSOR LOCKS, CT",UTC -5 (UTC -4 during Daylight Saving Time),6096,Open to the public,07/1942,yes,BOSTON CENTER,BRIDGEPORT FLIGHT SERVICE STATION,CONTINUOUS,"9510 x 200 ft. / 2899 x 61 m
+245 FT BY 200 FT BLAST PAD SW END.",hangars and tiedowns,"6847 x 150 ft. / 2087 x 46 m
+100 FT BY 200 FT BLAST PAD SE END.",Publicly-owned,Runway 6/24,"['- ', 'PPR FOR ACFT CARRYING CLASS 1 - DIVISION 1.1, 1.2, OR 1.3 XPLOSS AS DEFINED BY 49 CFR 173.50 OR AS AMDD.']","['Aircraft based on the field:', ' ', '51', 'Single engine airplanes:', ' ', '45', 'Multi engine airplanes:', ' ', '2', 'Helicopters:', ' ', '4']"
+BDN,"44-05-40.4190N 121-12-00.7960W
+44-05.673650N 121-12.013267W
+44.0945608,-121.2002211
+(estimated)",3459.4 ft. / 1054.4 m (surveyed),19E (1980),"5 miles NE of BEND, OR",UTC -8 (UTC -7 during Daylight Saving Time),97701,Open to the public,06/1942,no,SEATTLE CENTER,MC MINNVILLE FLIGHT SERVICE STATION,"SAT-SUN 0800-1700, ALL MON-FRI 0730-1800",5201 x 75 ft. / 1585 x 23 m,hangars and tiedowns,Publicly-owned,  ,Runway 16/34,"['- ', 'RWY 18 NSTD TFC PAT.']","['Aircraft based on the field:', ' ', '40', 'Single engine airplanes:', ' ', '37', 'Multi engine airplanes:', ' ', '1', 'Gliders airplanes:', ' ', '1', 'Ultralights:', ' ', '1']"
+BDR,"41-09-48.5310N 073-07-34.2330W
+41-09.808850N 073-07.570550W
+41.1634808,-73.1261758
+(estimated)",8.5 ft. / 2.6 m (surveyed),13W (1980),"3 miles SE of BRIDGEPORT, CT",UTC -5 (UTC -4 during Daylight Saving Time),6615,Open to the public,04/1940,yes,NEW YORK CENTER,BRIDGEPORT FLIGHT SERVICE STATION,0600-2400,4759 x 150 ft. / 1451 x 46 m,hangars and tiedowns,4677 x 100 ft. / 1426 x 30 m,Publicly-owned,Runway 11/29,"['- ', 'FOR CD CTC WICHITA APCH AT 316-350-1520.']","['Aircraft based on the field:', ' ', '71', 'Single engine airplanes:', ' ', '60', 'Multi engine airplanes:', ' ', '7', 'Jet airplanes:', ' ', '3', 'Gliders airplanes:', ' ', '1']"
+BEA,"28-21-51.2000N 097-47-31.0000W
+28-21.853333N 097-47.516667W
+28.3642222,-97.7919444
+(estimated)",272.8 ft. / 83.1 m (surveyed),04E (2020),"3 miles SW of BEEVILLE, TX",UTC -6 (UTC -5 during Daylight Saving Time),78102,Open to the public,12/1966,no,HOUSTON CENTER,SAN ANGELO FLIGHT SERVICE STATION,"UNATNDD
+FOR SVC AFT HRS CALL 361-358-0410.",100LL JET-A,,4553 x 75 ft. / 1388 x 23 m,2251 x 60 ft. / 686 x 18 m,Runway 12/30,"['- ', 'ALL TFC PATS W OF FIELD.']","['Aircraft based on the field:', ' ', '58', 'Single engine airplanes:', ' ', '49', 'Multi engine airplanes:', ' ', '2', 'Jet airplanes:', ' ', '5', 'Helicopters:', ' ', '1', 'Ultralights:', ' ', '1']"
+BET,"60-46-42.8000N 161-50-13.8000W
+60-46.713333N 161-50.230000W
+60.7785556,-161.8371667
+(estimated)",128.8 ft. / 39.3 m (surveyed),11E (2020),"3 miles SW of BETHEL, AK",UTC -9 (UTC -8 during Daylight Saving Time),99559,Open to the public,11/1958,yes,ANCHORAGE CENTER,KENAI FLIGHT SERVICE STATION [907-283-7211],"MAR-OCT MON-FRI 0630-2200, MAR-OCT SAT-SUN 0700-2200, NOV-APR MON-FRI 0500-2100, NOV-APR SAT-SUN 0700-2100","100 100LL JET-A JET-A1
+100:SELF-SERV FUEL NA; FUEL SVC CHARGE AFT 1800.",,6400 x 150 ft. / 1951 x 46 m,4000 x 75 ft. / 1219 x 23 m,Runway 1L/19R,"['- ', 'RWY 36 DSGND CALM WIND RWY.']","['Aircraft based on the field:', ' ', '87', 'Single engine airplanes:', ' ', '69', 'Multi engine airplanes:', ' ', '2', 'Jet airplanes:', ' ', '1', 'Helicopters:', ' ', '11', 'Gliders airplanes:', ' ', '1', 'Ultralights:', ' ', '3']"
+BFF,"41-52-26.5000N 103-35-44.3000W
+41-52.441667N 103-35.738333W
+41.8740278,-103.5956389
+(estimated)",3967.3 ft. / 1209.2 m (surveyed),10E (2000),"3 miles E of SCOTTSBLUFF, NE",UTC -7 (UTC -6 during Daylight Saving Time),69361,Open to the public,02/1944,no,DENVER CENTER,COLUMBUS FLIGHT SERVICE STATION,"0600-2100
+FOR SVC AFTER HRS CALL 308-635-0162.",100LL JET-A,,8279 x 150 ft. / 2523 x 46 m,8002 x 150 ft. / 2439 x 46 m,Runway 12/30,"['Ownership: ', 'Publicly-owned']","['Aircraft based on the field:', ' ', '24', 'Single engine airplanes:', ' ', '24']"
+BFI,"47-31-47.9000N 122-18-07.0000W
+47-31.798333N 122-18.116667W
+47.5299722,-122.3019444
+(estimated)",21.6 ft. / 6.6 m (surveyed),15E (2020),"4 miles S of SEATTLE, WA",UTC -8 (UTC -7 during Daylight Saving Time),98108,Open to the public,11/1938,yes,SEATTLE CENTER,SEATTLE FLIGHT SERVICE STATION,CONTINUOUS,10007 x 200 ft. / 3050 x 61 m,hangars and tiedowns,3709 x 100 ft. / 1131 x 30 m,Publicly-owned,Runway 14R/32L,"['Owner: ', 'CITY OF ABILENE\nPO BOX 60\nABILENE, TX 79604\nPhone 325-676-6206']","['Aircraft based on the field:', ' ', '22', 'Single engine airplanes:', ' ', '16', 'Multi engine airplanes:', ' ', '3', 'Jet airplanes:', ' ', '2', 'Gliders airplanes:', ' ', '1']"
+BFL,"35-26-01.9000N 119-03-27.6000W
+35-26.031667N 119-03.460000W
+35.4338611,-119.0576667
+(estimated)",509.6 ft. / 155.3 m (surveyed),14E (1985),"3 miles NW of BAKERSFIELD, CA",UTC -8 (UTC -7 during Daylight Saving Time),93308,Open to the public,04/1940,yes,LOS ANGELES CENTER,RANCHO MURIETA FLIGHT SERVICE STATION,CONTINUOUS,10849 x 150 ft. / 3307 x 46 m,tiedowns,7700 x 100 ft. / 2347 x 30 m,Publicly-owned,Runway 12L/30R,"['Manager: ', 'DON GREEN\n2933 AIRPORT BLVD SUITE 200\nABILENE, TX 79602\nPhone 325-676-6367']","['Aircraft based on the field:', ' ', '280', 'Single engine airplanes:', ' ', '248', 'Multi engine airplanes:', ' ', '18', 'Jet airplanes:', ' ', '7', 'Helicopters:', ' ', '7']"
+BFM,"30-37-36.4100N 088-04-05.1270W
+30-37.606833N 088-04.085450W
+30.6267806,-88.0680908
+(estimated)",26.2 ft. / 8.0 m (surveyed),01W (2005),"3 miles S of MOBILE, AL",UTC -6 (UTC -5 during Daylight Saving Time),36605,Open to the public,04/1940,yes,HOUSTON CENTER,ANNISTON FLIGHT SERVICE STATION,0700-2300,100LL JET-A,,9618 x 150 ft. / 2932 x 46 m,7800 x 150 ft. / 2377 x 46 m,Runway 14/32,"['Dimensions: ', '6000 x 150 ft. / 1829 x 46 m']","['Aircraft based on the field:', ' ', '29', 'Single engine airplanes:', ' ', '15', 'Multi engine airplanes:', ' ', '10', 'Jet airplanes:', ' ', '2', 'Gliders airplanes:', ' ', '2']"
+BGQ,"61-32-04.8590N 149-48-45.1740W
+61-32.080983N 149-48.752900W
+61.5346831,-149.8125483
+(estimated)",162.4 ft. / 49.5 m (surveyed),15E (2025),"1 mile SE of BIG LAKE, AK",UTC -9 (UTC -8 during Daylight Saving Time),99652,Open to the public,05/1951,no,ANCHORAGE CENTER,KENAI FLIGHT SERVICE STATION [907-283-7211],UNATNDD,2450 x 70 ft. / 747 x 21 m,MAJOR,Publicly-owned,  ,Runway 7/25,"['Surface: ', 'concrete/grooved, in good condition']","['Aircraft based on the field:', ' ', '35', 'Single engine airplanes:', ' ', '30', 'Multi engine airplanes:', ' ', '3', 'Jet airplanes:', ' ', '2']"
+BGR,"44-48-26.8000N 068-49-41.3000W
+44-48.446667N 068-49.688333W
+44.8074444,-68.8281389
+(estimated)",192.1 ft. / 58.6 m (surveyed),16W (2020),"3 miles W of BANGOR, ME",UTC -5 (UTC -4 during Daylight Saving Time),4401,Open to the public,04/1940,yes,BOSTON CENTER,BANGOR FLIGHT SERVICE STATION,CONTINUOUS,100LL JET-A,,11440 x 200 ft. / 3487 x 61 m,100 x 100 ft. / 30 x 30 m,Runway 15/33,"['Weight bearing capacity: ', 'PCN 41 /R/C/W/T\nSingle wheel:  65.0\nDouble wheel:  120.0\nDouble tandem:  155.0', 'PCN 41 /R/C/W/T', 'Single wheel: ', '65.0', 'Double wheel: ', '120.0', 'Double tandem: ', '155.0']","['Aircraft based on the field:', ' ', '12', 'Jet airplanes:', ' ', '12']"
+BGSF,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,"['Runway edge lights: ', 'medium intensity']","['Aircraft based on the field:', ' ', '41', 'Single engine airplanes:', ' ', '36', 'Multi engine airplanes:', ' ', '4', 'Jet airplanes:', ' ', '1']"
+BHK,"46-20-47.8000N 104-15-29.2000W
+46-20.796667N 104-15.486667W
+46.3466111,-104.2581111
+(estimated)",2980.7 ft. / 908.5 m (surveyed),09E (2015),"1 mile SE of BAKER, MT",UTC -7 (UTC -6 during Daylight Saving Time),59313,Open to the public,12/1938,no,SALT LAKE CITY CENTER,GREAT FALLS FLIGHT SERVICE STATION,"MON-FRI 0800-1700, ALL SAT 0800-1200",Publicly-owned,"asphalt/grooved, in excellent condition",  ,HIGH TWR APRXLY 1 MILE NW OF ARPT.,Runway 13/31,"['', 'RUNWAY 12', '  ', 'RUNWAY 30']","['Aircraft based on the field:', ' ', '56', 'Single engine airplanes:', ' ', '49', 'Multi engine airplanes:', ' ', '2', 'Jet airplanes:', ' ', '1', 'Helicopters:', ' ', '2', 'Gliders airplanes:', ' ', '1', 'Ultralights:', ' ', '1']"
+BHM,"33-33-50.0000N 086-45-08.3000W
+33-33.833333N 086-45.138333W
+33.5638889,-86.7523056
+(estimated)",650 ft. / 198.1 m (surveyed),03W (2010),"4 miles NE of BIRMINGHAM, AL",UTC -6 (UTC -5 during Daylight Saving Time),35212,Open to the public,04/1940,yes,ATLANTA CENTER,ANNISTON FLIGHT SERVICE STATION,CONTINUOUS,"100LL JET-A
+A:A++100 (MIL)",,12007 x 150 ft. / 3660 x 46 m,7099 x 150 ft. / 2164 x 46 m,Runway 6/24,"['Latitude: ', '35-02.612007N', '', '35-01.991678N']","['Aircraft based on the field:', ' ', '356', 'Single engine airplanes:', ' ', '167', 'Multi engine airplanes:', ' ', '26', 'Jet airplanes:', ' ', '137', 'Helicopters:', ' ', '26']"
+BIG,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,"['Longitude: ', '106-37.245090W', '', '106-36.308812W']","['Aircraft based on the field:', ' ', '225', 'Single engine airplanes:', ' ', '208', 'Multi engine airplanes:', ' ', '9', 'Helicopters:', ' ', '3', 'Gliders airplanes:', ' ', '5']"
+BIL,"45-48-28.2569N 108-32-36.7568W
+45-48.470948N 108-32.612613W
+45.8078491,-108.5435436
+(estimated)",3662.3 ft. / 1116.3 m (surveyed),10E (2020),"2 miles NW of BILLINGS, MT",UTC -7 (UTC -6 during Daylight Saving Time),59105,Open to the public,04/1940,yes,SALT LAKE CITY CENTER,GREAT FALLS FLIGHT SERVICE STATION,CONTINUOUS,10518 x 150 ft. / 3206 x 46 m,hangars and tiedowns,5501 x 75 ft. / 1677 x 23 m,3800 x 75 ft. / 1158 x 23 m,Runway 10L/28R,"['Elevation: ', '5312.4 ft.', '', '5313.6 ft.']","['Aircraft based on the field:', ' ', '23', 'Single engine airplanes:', ' ', '16', 'Multi engine airplanes:', ' ', '5', 'Helicopters:', ' ', '2']"
+BIS,"46-46-21.8420N 100-44-44.6550W
+46-46.364033N 100-44.744250W
+46.7727339,-100.7457375
+(estimated)",1661.3 ft. / 506.4 m (surveyed),07E (2010),"3 miles SE of BISMARCK, ND",UTC -6 (UTC -5 during Daylight Saving Time),58504,Open to the public,12/1937,yes,MINNEAPOLIS CENTER,GRAND FORKS FLIGHT SERVICE STATION,CONTINUOUS,8794 x 150 ft. / 2680 x 46 m,hangars and tiedowns,6600 x 100 ft. / 2012 x 30 m,Publicly-owned,Runway 13/31,"['Traffic pattern: ', 'right', '', 'left']","['Aircraft based on the field:', ' ', '157', 'Single engine airplanes:', ' ', '92', 'Multi engine airplanes:', ' ', '17', 'Jet airplanes:', ' ', '47', 'Helicopters:', ' ', '1']"
+BJC,"39-54-31.7000N 105-07-01.9000W
+39-54.528333N 105-07.031667W
+39.9088056,-105.1171944
+(estimated)",5673.4 ft. / 1729.3 m (surveyed),09E (2015),"9 miles NW of DENVER, CO",UTC -7 (UTC -6 during Daylight Saving Time),80021,Open to the public,10/1960,yes,DENVER CENTER,DENVER FLIGHT SERVICE STATION,CONTINUOUS,9000 x 100 ft. / 2743 x 30 m,hangars and tiedowns,7002 x 75 ft. / 2134 x 23 m,3600 x 75 ft. / 1097 x 23 m,Runway 12L/30R,"['Runway heading: ', '118 magnetic, 129 true', '', '298 magnetic, 309 true']","['Aircraft based on the field:', ' ', '103', 'Single engine airplanes:', ' ', '87', 'Multi engine airplanes:', ' ', '8', 'Jet airplanes:', ' ', '7', 'Helicopters:', ' ', '1']"
+BJI,"47-30-38.6000N 094-56-05.0000W
+47-30.643333N 094-56.083333W
+47.5107222,-94.9347222
+(estimated)",1391.4 ft. / 424.1 m (surveyed),01E (2015),"3 miles NW of BEMIDJI, MN",UTC -6 (UTC -5 during Daylight Saving Time),56601,Open to the public,09/1946,no,MINNEAPOLIS CENTER,PRINCETON FLIGHT SERVICE STATION,"TUE-FRI 0600-2100, ALL SAT-SUN 0800-1700, ALL MON 0700-2100",7004 x 150 ft. / 2135 x 46 m,hangars and tiedowns,5700 x 150 ft. / 1737 x 46 m,Publicly-owned,Runway 13/31,"['Declared distances: ', 'TORA:6000 TODA:6000 ASDA:6000 LDA:6000', '', 'TORA:6000 TODA:6000 ASDA:6000 LDA:6000']","['Aircraft based on the field:', ' ', '130', 'Single engine airplanes:', ' ', '109', 'Multi engine airplanes:', ' ', '11', 'Jet airplanes:', ' ', '6', 'Helicopters:', ' ', '4']"
+BKE,"44-50-14.4000N 117-48-32.9000W
+44-50.240000N 117-48.548333W
+44.8373333,-117.8091389
+(estimated)",3373.4 ft. / 1028.2 m (surveyed),16E (2005),"3 miles N of BAKER CITY, OR",UTC -8 (UTC -7 during Daylight Saving Time),97814,Open to the public,01/1938,no,SALT LAKE CITY CENTER,MC MINNVILLE FLIGHT SERVICE STATION,"OCT-APR 0700-1600, MAY-SEPT 0800-1700",100LL JET-A,,5085 x 100 ft. / 1550 x 30 m,4359 x 75 ft. / 1329 x 23 m,Runway 13/31,"['Markings: ', 'basic, in good condition', '', 'basic, in good condition']","['Aircraft based on the field:', ' ', '105', 'Single engine airplanes:', ' ', '62', 'Multi engine airplanes:', ' ', '25', 'Jet airplanes:', ' ', '18']"
+BKS,"27-12-21.8000N 098-07-15.7000W
+27-12.363333N 098-07.261667W
+27.2060556,-98.1210278
+(estimated)",111.7 ft. / 34.0 m (surveyed),06E (2000),"2 miles SE of FALFURRIAS, TX",UTC -6 (UTC -5 during Daylight Saving Time),78355,Open to the public,09/1949,no,HOUSTON CENTER,SAN ANGELO FLIGHT SERVICE STATION,"MAR-OCT MON-FRI 0900-1600, NOV-FEB 0900-1700
+FOR ATTENDANT AFT HRS CALL 361-325-2909.",6006 x 75 ft. / 1831 x 23 m,tiedowns,3018 x 60 ft. / 920 x 18 m,Publicly-owned,Runway 17/35,"['Visual slope indicator: ', '', '', '4-light PAPI on left (3.00 degrees glide path)']","['Aircraft based on the field:', ' ', '21', 'Single engine airplanes:', ' ', '18', 'Multi engine airplanes:', ' ', '1', 'Helicopters:', ' ', '2']"
+BKV,"28-28-25.0000N 082-27-19.5000W
+28-28.416667N 082-27.325000W
+28.4736111,-82.4554167
+(estimated)",76 ft. / 23.2 m (surveyed),04W (2000),"6 miles SW of BROOKSVILLE, FL",UTC -5 (UTC -4 during Daylight Saving Time),34609,Open to the public,02/1944,yes,MIAMI CENTER,SAINT PETERSBURG FLIGHT SERVICE STATION,0600-2200,7001 x 150 ft. / 2134 x 46 m,hangars and tiedowns,5014 x 150 ft. / 1528 x 46 m,Publicly-owned,Runway 9/27,"['RVR equipment: ', 'rollout', '', 'touchdown']","['Aircraft based on the field:', ' ', '23', 'Single engine airplanes:', ' ', '18', 'Multi engine airplanes:', ' ', '2', 'Jet airplanes:', ' ', '2', 'Military aircraft:', ' ', '1']"
+BLI,"48-47-33.7000N 122-32-15.1000W
+48-47.561667N 122-32.251667W
+48.7926944,-122.5375278
+(estimated)",171 ft. / 52.1 m (surveyed),16E (2020),"3 miles NW of BELLINGHAM, WA",UTC -8 (UTC -7 during Daylight Saving Time),98226,Open to the public,11/1938,yes,VANCOUVER CENTER,SEATTLE FLIGHT SERVICE STATION,CONTINUOUS,100LL JET-A,,6700 x 150 ft. / 2042 x 46 m,Publicly-owned,Runway 16/34,"['Runway end identifier lights: ', '', '', 'yes']","['Aircraft based on the field:', ' ', '194', 'Single engine airplanes:', ' ', '154', 'Multi engine airplanes:', ' ', '7', 'Helicopters:', ' ', '3', 'Military aircraft:', ' ', '30']"
+BMT,"30-04-12.7358N 094-12-54.3482W
+30-04.212263N 094-12.905803W
+30.0702044,-94.2150967
+(estimated)",31.9 ft. / 9.7 m (surveyed),04E (2000),"6 miles W of BEAUMONT, TX",UTC -6 (UTC -5 during Daylight Saving Time),77713,Open to the public,10/1937,no,HOUSTON CENTER,MONTGOMERY COUNTY FLIGHT SERVICE STATION,0700-1900,"100LL JET-A
+100LL:100LL AVBL 24 HRS SELF SERVICE WITH CREDIT CARD.",,4001 x 75 ft. / 1220 x 23 m,Publicly-owned,Runway 13/31,"['Touchdown point: ', 'yes, no lights', '', 'yes, no lights']","['Aircraft based on the field:', ' ', '65', 'Single engine airplanes:', ' ', '60', 'Multi engine airplanes:', ' ', '2', 'Helicopters:', ' ', '2', 'Gliders airplanes:', ' ', '1']"
+BNA,"36-07-28.1100N 086-40-41.4500W
+36-07.468500N 086-40.690833W
+36.1244750,-86.6781806
+(estimated)",599 ft. / 182.6 m (surveyed),03W (2010),"5 miles SE of NASHVILLE, TN",UTC -6 (UTC -5 during Daylight Saving Time),37217,Open to the public,12/1937,yes,MEMPHIS CENTER,NASHVILLE FLIGHT SERVICE STATION,CONTINUOUS,100LL JET-A,,11030 x 150 ft. / 3362 x 46 m,8001 x 150 ft. / 2439 x 46 m,Runway 13/31,"['Ownership: ', 'Publicly-owned']","['Aircraft based on the field:', ' ', '42', 'Single engine airplanes:', ' ', '28', 'Multi engine airplanes:', ' ', '5', 'Jet airplanes:', ' ', '6', 'Helicopters:', ' ', '1', 'Gliders airplanes:', ' ', '2']"
+BNO,"43-35-30.8600N 118-57-19.5740W
+43-35.514333N 118-57.326233W
+43.5919056,-118.9554372
+(estimated)",4148.2 ft. / 1264.4 m (surveyed),18E (1980),"5 miles E of BURNS, OR",UTC -8 (UTC -7 during Daylight Saving Time),97720,Open to the public,06/1943,no,SALT LAKE CITY CENTER,MC MINNVILLE FLIGHT SERVICE STATION,"MON -SAT 0800-1800
+TERMINAL OPEN 24 HRS.",5101 x 75 ft. / 1555 x 23 m,tiedowns,4600 x 60 ft. / 1402 x 18 m,Publicly-owned,Runway 12/30,"['Owner: ', 'CITY OF ABERDEEN\n123 S LINCOLN ST\nABERDEEN, SD 57401-1420\nPhone 605-626-7020']","['Aircraft based on the field:', ' ', '35', 'Single engine airplanes:', ' ', '25', 'Multi engine airplanes:', ' ', '1', 'Helicopters:', ' ', '7', 'Ultralights:', ' ', '2']"
+BOI,"43-33-51.7000N 116-13-22.3000W
+43-33.861667N 116-13.371667W
+43.5643611,-116.2228611
+(estimated)",2871.7 ft. / 875.3 m (surveyed),13E (2020),"3 miles S of BOISE, ID",UTC -7 (UTC -6 during Daylight Saving Time),83705,Open to the public,04/1940,yes,SALT LAKE CITY CENTER,"BOISE FLIGHT SERVICE STATION
+LOCAL CALL TO FSS 343-2525.",CONTINUOUS,10000 x 150 ft. / 3048 x 46 m,hangars and tiedowns,9763 x 150 ft. / 2976 x 46 m,Publicly-owned,Runway 10L/28R,"['Manager: ', 'RICH KROKEL\n4740 6TH AVENUE SE\nABERDEEN, SD 57401-4215\nPhone 605-626-7020']","['Aircraft based on the field:', ' ', '30', 'Single engine airplanes:', ' ', '27', 'Multi engine airplanes:', ' ', '1', 'Jet airplanes:', ' ', '1', 'Helicopters:', ' ', '1']"
+BOW,"27-56-36.1000N 081-47-00.3000W
+27-56.601667N 081-47.005000W
+27.9433611,-81.7834167
+(estimated)",124.8 ft. / 38.0 m (surveyed),04W (1995),"4 miles NE of BARTOW, FL",UTC -5 (UTC -4 during Daylight Saving Time),33830,Open to the public,02/1944,yes,MIAMI CENTER,SAINT PETERSBURG FLIGHT SERVICE STATION,"0600-1800
+UNATTND EASTER, THANKSGIVING & CHRISTMAS.",5000 x 100 ft. / 1524 x 30 m,hangars and tiedowns,5000 x 150 ft. / 1524 x 46 m,4400 x 150 ft. / 1341 x 46 m,Runway 5/23,"['Ownership: ', 'Publicly-owned']","['Aircraft based on the field:', ' ', '12', 'Single engine airplanes:', ' ', '9', 'Multi engine airplanes:', ' ', '2', 'Helicopters:', ' ', '1']"
+BPG,"32-12-45.4000N 101-31-17.9000W
+32-12.756667N 101-31.298333W
+32.2126111,-101.5216389
+(estimated)",2572.9 ft. / 784.2 m (surveyed),07E (2010),"2 miles SW of BIG SPRING, TX",UTC -6 (UTC -5 during Daylight Saving Time),79720,Open to the public,no,FORT WORTH CENTER,SAN ANGELO FLIGHT SERVICE STATION,BPG (NOTAM-D service available),lighted,8802 x 100 ft. / 2683 x 30 m,hangars and tiedowns,4601 x 75 ft. / 1402 x 23 m,Publicly-owned,Runway 17/35,"['Owner: ', 'CITY OF WACO\nPO BOX 2570\nWACO, TX 76702-2570\nPhone 254-750-5640']","['Aircraft based on the field:', ' ', '223', 'Single engine airplanes:', ' ', '207', 'Multi engine airplanes:', ' ', '11', 'Helicopters:', ' ', '3', 'Gliders airplanes:', ' ', '2']"
+BRD,"46-24-15.2000N 094-08-01.7000W
+46-24.253333N 094-08.028333W
+46.4042222,-94.1338056
+(estimated)",1232.2 ft. / 375.6 m (surveyed),03E (1995),"3 miles NE of BRAINERD, MN",UTC -6 (UTC -5 during Daylight Saving Time),56401,Open to the public,10/1948,no,MINNEAPOLIS CENTER,PRINCETON FLIGHT SERVICE STATION,"JUL-OCT 0500-2300, NOV-JUN 0500-2300",7100 x 150 ft. / 2164 x 46 m,hangars and tiedowns,6512 x 150 ft. / 1985 x 46 m,60 x 60 ft. / 18 x 18 m,Runway 16/34,"['Manager: ', 'JOEL C. MARTINEZ\n7909 KARL MAY DRIVE\nWACO, TX 76708\nPhone 254-750-8657']","['Aircraft based on the field:', ' ', '60', 'Single engine airplanes:', ' ', '56', 'Multi engine airplanes:', ' ', '2', 'Gliders airplanes:', ' ', '2']"
+BRG,"34-38-45.1019N 106-50-10.8243W
+34-38.751698N 106-50.180405W
+34.6458616,-106.8363401
+(estimated)",5199.5 ft. / 1585 m (estimated),11E (1985),"3 miles W of BELEN, NM",UTC -7 (UTC -6 during Daylight Saving Time),87002,Open to the public,05/1979,no,ALBUQUERQUE CENTER,ALBUQUERQUE FLIGHT SERVICE STATION,MON-FRI 0800-1700,6601 x 60 ft. / 2012 x 18 m,hangars and tiedowns,5280 x 75 ft. / 1609 x 23 m,Publicly-owned,Runway 3/21,"['Aircraft based on the field:   27\nSingle engine airplanes:   18\nMulti engine airplanes:   3\nHelicopters:   3\nMilitary aircraft:   3', 'Aircraft based on the field:', ' ', '27', 'Single engine airplanes:', ' ', '18', 'Multi engine airplanes:', ' ', '3', 'Helicopters:', ' ', '3', 'Military aircraft:', ' ', '3', '  ', '', '  ', 'Aircraft operations: avg 115/day *\n61%  military\n14%  commercial\n14%  transient general aviation\n11%  local general aviation\n* for 12-month period ending 31 May 2019', 'Aircraft operations: avg 115/day *', '61% ', 'military', '14% ', 'commercial', '14% ', 'transient general aviation', '11% ', 'local general aviation', '* for 12-month period ending 31 May 2019']","['Aircraft based on the field:', ' ', '4', 'Single engine airplanes:', ' ', '2', 'Helicopters:', ' ', '2']"
+BRW,"71-17-05.5000N 156-46-06.9000W
+71-17.091667N 156-46.115000W
+71.2848611,-156.7685833
+(estimated)",48.9 ft. / 14.9 m (surveyed),10E (2025),UTC -9 (UTC -8 during Daylight Saving Time),99723,nan,Open to the public,no,ANCHORAGE CENTER,BARROW FLIGHT SERVICE STATION (on field) [907-852-2511],FAI FAIRBANKS FLIGHT SERVICE STATION [1-866-248-6516],0600-2030,100LL JET-A1,,7100 x 150 ft. / 2164 x 46 m,Publicly-owned,Runway 8/26,"['Dimensions: ', '102 x 102 ft. / 31 x 31 m']","['Aircraft based on the field:', ' ', '30', 'Single engine airplanes:', ' ', '24', 'Multi engine airplanes:', ' ', '6']"

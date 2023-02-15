@@ -1,0 +1,417 @@
+airport_numbers,location,elevation,variation,from_city,time_zone,zipcode,airport_use,activation_date,control_tower,artcc,fss,attendance,fueltype,parking,ownership1,ownership2,runway
+PVU,"40-13-09.0000N 111-43-24.1000W
+40-13.150000N 111-43.401667W
+40.2191667,-111.7233611
+(estimated)",4496.9 ft. / 1370.7 m (surveyed),12E (2010),"2 miles SW of PROVO, UT",UTC -7 (UTC -6 during Daylight Saving Time),84601,Open to the public,09/1942,yes,SALT LAKE CITY CENTER,CEDAR CITY FLIGHT SERVICE STATION,"JUN-OCT 0600-2200, NOV-MAY 0600-2100
+FOR ARPT SVCS CTC 128.85.",8603 x 150 ft. / 2622 x 46 m,hangars and tiedowns,6628 x 150 ft. / 2020 x 46 m,Publicly-owned,Runway 13/31
+RAP,"44-02-43.2000N 103-03-26.5000W
+44-02.720000N 103-03.441667W
+44.0453333,-103.0573611
+(estimated)",3203.5 ft. / 976.4 m (surveyed),08E (2010),"8 miles SE of RAPID CITY, SD",UTC -7 (UTC -6 during Daylight Saving Time),57703,Open to the public,08/1950,yes,DENVER CENTER,HURON FLIGHT SERVICE STATION,CONTINUOUS,8701 x 150 ft. / 2652 x 46 m,hangars and tiedowns,3601 x 75 ft. / 1098 x 23 m,Publicly-owned,Runway 14/32
+RBG,"43-14-21.6070N 123-21-21.0690W
+43-14.360117N 123-21.351150W
+43.2393353,-123.3558525
+(estimated)",533.4 ft. / 162.6 m (surveyed),14E (2025),"1 mile NW of ROSEBURG, OR",UTC -8 (UTC -7 during Daylight Saving Time),97470,Open to the public,12/1938,no,SEATTLE CENTER,MC MINNVILLE FLIGHT SERVICE STATION,0800-1700,5003 x 100 ft. / 1525 x 30 m,tiedowns,Publicly-owned,  ,Runway 16/34
+RBL,"40-09-01.1000N 122-15-07.9000W
+40-09.018333N 122-15.131667W
+40.1503056,-122.2521944
+(estimated)",352.3 ft. / 107.4 m (surveyed),17E (1985),"2 miles S of RED BLUFF, CA",UTC -8 (UTC -7 during Daylight Saving Time),96080,Open to the public,04/1948,no,OAKLAND CENTER,RANCHO MURIETA FLIGHT SERVICE STATION,0700-DUSK,5431 x 100 ft. / 1655 x 30 m,tiedowns,Publicly-owned,  ,Runway 15/33
+RCE,"35-29-17.1000N 097-49-24.8000W
+35-29.285000N 097-49.413333W
+35.4880833,-97.8235556
+(estimated)",1353.8 ft. / 412.6 m (surveyed),07E (1990),"15 miles W of OKLAHOMA CITY, OK",UTC -6 (UTC -5 during Daylight Saving Time),73099,Open to the public,no,FORT WORTH CENTER,MC ALESTER FLIGHT SERVICE STATION,MLC (NOTAM-D service available),lighted,6014 x 100 ft. / 1833 x 30 m,tiedowns,3502 x 75 ft. / 1067 x 23 m,Publicly-owned,Runway 17R/35L
+RDD,"40-30-32.3000N 122-17-36.2000W
+40-30.538333N 122-17.603333W
+40.5089722,-122.2933889
+(estimated)",504.7 ft. / 153.8 m (surveyed),14E (2020),"6 miles SE of REDDING, CA",UTC -8 (UTC -7 during Daylight Saving Time),96002,Open to the public,07/1944,yes,OAKLAND CENTER,RANCHO MURIETA FLIGHT SERVICE STATION,CONTINUOUS,7003 x 150 ft. / 2135 x 46 m,tiedowns,5067 x 150 ft. / 1544 x 46 m,Publicly-owned,Runway 16/34
+RDM,"44-15-14.6480N 121-08-59.8970W
+44-15.244133N 121-08.998283W
+44.2540689,-121.1499714
+(estimated)",3081.5 ft. / 939.2 m (surveyed),14E (2020),"1 mile SE of REDMOND, OR",UTC -8 (UTC -7 during Daylight Saving Time),97756,Open to the public,09/1938,yes,SEATTLE CENTER,MC MINNVILLE FLIGHT SERVICE STATION,"0400-2000
+FOR FUEL AFT HRS CALL FBO 541-504-3848. UNICOM: FBO 122.85.",7038 x 150 ft. / 2145 x 46 m,tiedowns,7006 x 100 ft. / 2135 x 30 m,48 x 48 ft. / 15 x 15 m,Runway 5/23
+REO,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+RFD,"42-11-43.3000N 089-05-50.0000W
+42-11.721667N 089-05.833333W
+42.1953611,-89.0972222
+(estimated)",742 ft. / 226.2 m (surveyed),03W (2020),68 miles NW of central business district of the associated city,UTC -6 (UTC -5 during Daylight Saving Time),61109,Open to the public,03/1950,yes,CHICAGO CENTER,KANKAKEE FLIGHT SERVICE STATION,CONTINUOUS,10002 x 150 ft. / 3049 x 46 m,hangars and tiedowns,8200 x 150 ft. / 2499 x 46 m,Publicly-owned,Runway 7/25
+RIC,"37-30-18.6520N 077-19-11.0590W
+37-30.310867N 077-19.184317W
+37.5051811,-77.3197386
+(estimated)",167.5 ft. / 51.1 m (surveyed),10W (2020),"6 miles E of RICHMOND, VA",UTC -5 (UTC -4 during Daylight Saving Time),23250,Open to the public,12/1931,yes,WASHINGTON CENTER,LEESBURG FLIGHT SERVICE STATION,CONTINUOUS,100LL JET-A,,9003 x 150 ft. / 2744 x 46 m,6607 x 150 ft. / 2014 x 46 m,Runway 16/34
+RID,"39-45-21.9000N 084-50-33.7000W
+39-45.365000N 084-50.561667W
+39.7560833,-84.8426944
+(estimated)",1139.8 ft. / 347.4 m (surveyed),03W (1985),"5 miles SE of RICHMOND, IN",UTC -5 (UTC -4 during Daylight Saving Time),47374,Open to the public,12/1944,no,INDIANAPOLIS CENTER,TERRE HAUTE FLIGHT SERVICE STATION,0800-1745,100LL JET-A,,5502 x 150 ft. / 1677 x 46 m,4999 x 100 ft. / 1524 x 30 m,Runway 6/24
+RIF,"38-44-02.8000N 112-06-05.7000W
+38-44.046667N 112-06.095000W
+38.7341111,-112.1015833
+(estimated)",5318 ft. / 1620.9 m (surveyed),13E (2000),"1 mile SW of RICHFIELD, UT",UTC -7 (UTC -6 during Daylight Saving Time),84701,Open to the public,03/1940,no,SALT LAKE CITY CENTER,CEDAR CITY FLIGHT SERVICE STATION,0800-1700,7100 x 100 ft. / 2164 x 30 m,tiedowns,Publicly-owned,  ,Runway 1/19
+RIL,"39-31-35.7840N 107-43-40.7530W
+39-31.596400N 107-43.679217W
+39.5266067,-107.7279869
+(estimated)",5536.8 ft. / 1687.6 m (surveyed),10E (2010),"3 miles E of RIFLE, CO",UTC -7 (UTC -6 during Daylight Saving Time),81650,Open to the public,07/1940,no,DENVER CENTER,DENVER FLIGHT SERVICE STATION,CONTINUOUS,7000 x 100 ft. / 2134 x 30 m,hangars and tiedowns,Publicly-owned,  ,Runway 8/26
+RIV,"33-52-54.9960N 117-15-32.4610W
+33-52.916600N 117-15.541017W
+33.8819433,-117.2590169
+(estimated)",1536 ft. / 468 m (estimated),14E (1980),"6 miles SE of RIVERSIDE, CA",UTC -8 (UTC -7 during Daylight Saving Time),92518,Open to the public,05/1941,yes,LOS ANGELES CENTER,RIVERSIDE FLIGHT SERVICE STATION,"0700-2300
+OPR H24; OPS FM 0700-1500Z++ RQR 452 OG/CC APVL, EXC FOR KRIV BASED ALERT MSN.","100LL JET-A JET-A++
+100LL:FULL SVC AVBL AT FBO; SELF-SERVE UNAVBL.",,13302 x 200 ft. / 4054 x 61 m,3061 x 100 ft. / 933 x 30 m,Runway 14/32
+RJAA,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+RKD,"44-03-36.5120N 069-05-58.8110W
+44-03.608533N 069-05.980183W
+44.0601422,-69.0996697
+(estimated)",55.4 ft. / 16.9 m (surveyed),18W (2000),"3 miles S of ROCKLAND, ME",UTC -5 (UTC -4 during Daylight Saving Time),04854,Open to the public,02/1943,no,BOSTON CENTER,BANGOR FLIGHT SERVICE STATION,"MON-FRI 0600-1700
+ARPT MAY BE UNATNDD FM 2200-0600.",100LL JET-A,,5412 x 100 ft. / 1650 x 30 m,4000 x 100 ft. / 1219 x 30 m,Runway 13/31
+RKS,"41-35-39.2000N 109-03-54.7000W
+41-35.653333N 109-03.911667W
+41.5942222,-109.0651944
+(estimated)",6764.6 ft. / 2061.9 m (surveyed),13E (1995),"7 miles E of ROCK SPRINGS, WY",UTC -7 (UTC -6 during Daylight Saving Time),82901,Open to the public,07/1942,no,SALT LAKE CITY CENTER,CASPER FLIGHT SERVICE STATION,0400-2200,10000 x 150 ft. / 3048 x 46 m,hangars and tiedowns,5228 x 75 ft. / 1593 x 23 m,Publicly-owned,Runway 9/27
+RMN,"38-23-53.2000N 077-27-19.7000W
+38-23.886667N 077-27.328333W
+38.3981111,-77.4554722
+(estimated)",211.2 ft. / 64.4 m (surveyed),10W (2000),"3 miles SW of STAFFORD, VA",UTC -5 (UTC -4 during Daylight Saving Time),22406,Open to the public,10/2001,no,WASHINGTON CENTER,LEESBURG FLIGHT SERVICE STATION,"0800-1800
+UNATNDD THANKSGIVING, CHRISTMAS, & NEW YEARS DAYS.","100LL JET-A
+100LL:FUEL AVBL UNTIL 1800; AFTER HRS CALL 540-288-3838 WITHIN 12 HRS NOTICE. PRIST AVBL.
+A:GOVT CONTR FUEL.",,5000 x 100 ft. / 1524 x 30 m,Publicly-owned,Runway 15/33
+RNO,"39-29-56.8000N 119-46-05.2000W
+39-29.946667N 119-46.086667W
+39.4991111,-119.7681111
+(estimated)",4414.9 ft. / 1345.7 m (surveyed),13E (2020),"3 miles SE of RENO, NV",UTC -8 (UTC -7 during Daylight Saving Time),89502,Open to the public,11/1938,yes,OAKLAND CENTER,RENO FLIGHT SERVICE STATION,CONTINUOUS,11001 x 150 ft. / 3353 x 46 m,tiedowns,9000 x 150 ft. / 2743 x 46 m,6102 x 150 ft. / 1860 x 46 m,Runway 17R/35L
+RNT,"47-29-35.3000N 122-12-56.7000W
+47-29.588333N 122-12.945000W
+47.4931389,-122.2157500
+(estimated)",32 ft. / 9.8 m (surveyed),17E (2010),UTC -8 (UTC -7 during Daylight Saving Time),98055,nan,Open to the public,04/1945,yes,SEATTLE CENTER,SEATTLE FLIGHT SERVICE STATION,0700-DUSK,5382 x 200 ft. / 1640 x 61 m,tiedowns,Publicly-owned,  ,Runway 16/34
+ROA,"37-19-31.7000N 079-58-31.5000W
+37-19.528333N 079-58.525000W
+37.3254722,-79.9754167
+(estimated)",1175.2 ft. / 358.2 m (surveyed),08W (2010),"3 miles NW of ROANOKE, VA",UTC -5 (UTC -4 during Daylight Saving Time),24019,Open to the public,05/1930,yes,WASHINGTON CENTER,LEESBURG FLIGHT SERVICE STATION,CONTINUOUS,100LL JET-A,,6800 x 150 ft. / 2073 x 46 m,5810 x 150 ft. / 1771 x 46 m,Runway 6/24
+ROW,"33-17-59.5308N 104-31-45.8315W
+33-17.992180N 104-31.763858W
+33.2998697,-104.5293976
+(estimated)",3671 ft. / 1118.9 m (surveyed),10E (1995),"3 miles S of ROSWELL, NM",UTC -7 (UTC -6 during Daylight Saving Time),88203,Open to the public,10/1967,yes,ALBUQUERQUE CENTER,ALBUQUERQUE FLIGHT SERVICE STATION,"0600-2100
+AFT HR - 575-347-2054 OR 575-626-3697.","100LL JET-A JET-A1+
+100LL:AFT HR - 575-347-2054.",,13001 x 150 ft. / 3963 x 46 m,9999 x 100 ft. / 3048 x 30 m,Runway 3/21
+RRT,"48-56-29.3000N 095-20-54.5000W
+48-56.488333N 095-20.908333W
+48.9414722,-95.3484722
+(estimated)",1075.5 ft. / 327.8 m (surveyed),04E (1995),"2 miles NW of WARROAD, MN",UTC -6 (UTC -5 during Daylight Saving Time),56763,Open to the public,08/1949,no,MINNEAPOLIS CENTER,PRINCETON FLIGHT SERVICE STATION,"MON-FRI 0700-1700
+FOR SVC NGTS & WKENDS CALL AMGR.","100LL JET-A
+100LL:FUEL AVBL H24 SELF SVC VIA CREDIT CARD.",,5400 x 100 ft. / 1646 x 30 m,2987 x 150 ft. / 910 x 46 m,Runway 13/31
+RST,"43-54-29.8000N 092-30-00.1000W
+43-54.496667N 092-30.001667W
+43.9082778,-92.5000278
+(estimated)",1317.4 ft. / 401.5 m (surveyed),01W (2025),"7 miles SW of ROCHESTER, MN",UTC -6 (UTC -5 during Daylight Saving Time),55902,Open to the public,04/1961,yes,MINNEAPOLIS CENTER,PRINCETON FLIGHT SERVICE STATION,CONTINUOUS,9034 x 150 ft. / 2754 x 46 m,hangars,7301 x 150 ft. / 2225 x 46 m,Publicly-owned,Runway 13/31
+RSW,"26-32-10.1900N 081-45-18.5580W
+26-32.169833N 081-45.309300W
+26.5361639,-81.7551550
+(estimated)",29.9 ft. / 9.1 m (surveyed),04W (2000),"10 miles SE of FORT MYERS, FL",UTC -5 (UTC -4 during Daylight Saving Time),33913,Open to the public,03/1983,yes,MIAMI CENTER,MIAMI FLIGHT SERVICE STATION,0700-0100,100LL JET-A JET-A+,,12000 x 150 ft. / 3658 x 46 m,Publicly-owned,Runway 6/24
+RTS,"39-40-05.4370N 119-52-35.1827W
+39-40.090617N 119-52.586378W
+39.6681769,-119.8764396
+(estimated)",5050.1 ft. / 1539.3 m (surveyed),16E (2000),"10 miles NW of RENO, NV",UTC -8 (UTC -7 during Daylight Saving Time),89506,Open to the public,08/1943,no,OAKLAND CENTER,RENO FLIGHT SERVICE STATION,MONDAY - FRIDAY 0700-1630,9000 x 150 ft. / 2743 x 46 m,hangars and tiedowns,7608 x 150 ft. / 2319 x 46 m,Publicly-owned,Runway 14/32
+RVF,"45-32-07.5000N 112-18-08.2000W
+45-32.125000N 112-18.136667W
+45.5354167,-112.3022778
+(estimated)",4788.7 ft. / 1459.6 m (surveyed),12E (2020),"2 miles SE of TWIN BRIDGES, MT",UTC -7 (UTC -6 during Daylight Saving Time),59749,Open to the public,04/1940,no,SALT LAKE CITY CENTER,GREAT FALLS FLIGHT SERVICE STATION,MON-FRI 0800-1700,6000 x 60 ft. / 1829 x 18 m,hangars and tiedowns,2866 x 100 ft. / 874 x 30 m,Publicly-owned,Runway 17/35
+RYN,"32-08-31.9600N 111-10-28.4850W
+32-08.532667N 111-10.474750W
+32.1422111,-111.1745792
+(estimated)",2418.9 ft. / 737.3 m (surveyed),12E (1985),"10 miles SW of TUCSON, AZ",UTC -7 (year round; does not observe DST),85735,Open to the public,03/1943,yes,ALBUQUERQUE CENTER,PRESCOTT FLIGHT SERVICE STATION,"M-F 0800-1700, ALL SAT 0800-1700","100LL JET-A
+100LL:FUEL 0800 - 1700; AFT HR JET A FEE FOR ON CALL SVC - 520-744-7474; SELF SERVE 100LL AVBL H24 WITH CREDIT CARD.",,5500 x 75 ft. / 1676 x 23 m,4900 x 75 ft. / 1494 x 23 m,Runway 6R/24L
+RYY,"34-00-47.4000N 084-35-49.3000W
+34-00.790000N 084-35.821667W
+34.0131667,-84.5970278
+(estimated)",1040.4 ft. / 317.1 m (surveyed),04W (2005),"21 miles NW of ATLANTA, GA",UTC -5 (UTC -4 during Daylight Saving Time),30144,Open to the public,12/1942,yes,ATLANTA CENTER,MACON FLIGHT SERVICE STATION,0600-0000,100LL JET-A+,,6295 x 100 ft. / 1919 x 30 m,Publicly-owned,Runway 9/27
+RZR,"35-12-44.4110N 084-47-57.1160W
+35-12.740183N 084-47.951933W
+35.2123364,-84.7991989
+(estimated)",865.6 ft. / 263.8 m (surveyed),05W (2015),"3 miles NE of CLEVELAND, TN",UTC -5 (UTC -4 during Daylight Saving Time),37312,Open to the public,01/2013,no,ATLANTA CENTER,NASHVILLE FLIGHT SERVICE STATION,0700-1800,100LL JET-A JET-A1,,6200 x 100 ft. / 1890 x 30 m,Publicly-owned,Runway 3/21
+S21,"43-52-34.7250N 121-27-10.9850W
+43-52.578750N 121-27.183083W
+43.8763125,-121.4530514
+(estimated)",4163.5 ft. / 1269.0 m (surveyed),18E (1985),"1 mile W of SUNRIVER, OR",UTC -8 (UTC -7 during Daylight Saving Time),97707,Open to the public,05/1969,no,SEATTLE CENTER,MC MINNVILLE FLIGHT SERVICE STATION,"MAY 15 - 14 OCT 0700-1900, 15 OCT - 14 MAY 0800-1800",5460 x 75 ft. / 1664 x 23 m,hangars and tiedowns,Privately-owned,  ,Runway 18/36
+S25,"47-47-34.7970N 103-14-57.6680W
+47-47.579950N 103-14.961133W
+47.7929992,-103.2493522
+(estimated)",2135.1 ft. / 650.8 m (surveyed),07E (2025),"1 mile ESE of WATFORD CITY, ND",UTC -6 (UTC -5 during Daylight Saving Time),58854,Open to the public,no,SALT LAKE CITY CENTER,GRAND FORKS FLIGHT SERVICE STATION,GFK (NOTAM-D service available),lighted,6550 x 75 ft. / 1996 x 23 m,hangars and tiedowns,Publicly-owned,  ,Runway 12/30
+S33,"44-40-12.5880N 121-09-18.5370W
+44-40.209800N 121-09.308950W
+44.6701633,-121.1551492
+(estimated)",2437.6 ft. / 743.0 m (surveyed),16E (2010),"3 miles NW of MADRAS, OR",UTC -8 (UTC -7 during Daylight Saving Time),97741,Open to the public,12/1938,no,SEATTLE CENTER,MC MINNVILLE FLIGHT SERVICE STATION,"NOV-APR 0800-1700, MAY-OCT 0800-1800",5091 x 75 ft. / 1552 x 23 m,hangars and tiedowns,2701 x 50 ft. / 823 x 15 m,Publicly-owned,Runway 16/34
+S39,"44-17-16.2760N 120-54-19.7910W
+44-17.271267N 120-54.329850W
+44.2878544,-120.9054975
+(estimated)",3251.2 ft. / 991.0 m (surveyed),14E (2025),"3 miles SW of PRINEVILLE, OR",UTC -8 (UTC -7 during Daylight Saving Time),97754,Open to the public,01/1943,no,SEATTLE CENTER,MC MINNVILLE FLIGHT SERVICE STATION,"SAT-SUN 0900-1400, ALL MON-FRI 0800-16:30",5405 x 75 ft. / 1647 x 23 m,tiedowns,4053 x 40 ft. / 1235 x 12 m,Publicly-owned,Runway 11/29
+S52,"48-25-29.8140N 120-08-45.1880W
+48-25.496900N 120-08.753133W
+48.4249483,-120.1458856
+(estimated)",1706 ft. / 520 m (estimated),20E (1985),"3 miles SE of WINTHROP, WA",UTC -8 (UTC -7 during Daylight Saving Time),98862,Open to the public,12/1938,no,SEATTLE CENTER,SEATTLE FLIGHT SERVICE STATION,UNATNDD,Publicly-owned,"asphalt, in excellent condition",  ,MOUNTAINOUS TRRN SURROUNDS ARPT.,Runway 13/31
+S97,"48-06-17.0230N 119-43-11.6960W
+48-06.283717N 119-43.194933W
+48.1047286,-119.7199156
+(estimated)",919.5 ft. / 280.3 m (surveyed),20E (1985),"3 miles E of BREWSTER, WA",UTC -8 (UTC -7 during Daylight Saving Time),98812,Open to the public,01/1965,no,SEATTLE CENTER,SEATTLE FLIGHT SERVICE STATION,UNATNDD,Publicly-owned,"asphalt, in good condition",  ,TWY LGTS ON CNTR TWY ONLY.,Runway 7/25
+SAA,"41-26-36.7000N 106-49-39.1000W
+41-26.611667N 106-49.651667W
+41.4435278,-106.8275278
+(estimated)",7014.2 ft. / 2137.9 m (surveyed),12E (1995),"1 mile SW of SARATOGA, WY",UTC -7 (UTC -6 during Daylight Saving Time),82331,Open to the public,05/1946,no,DENVER CENTER,CASPER FLIGHT SERVICE STATION,"APR-NOV 0800-1700, DEC-MAR 0800-1600","100LL JET-A
+A:FULL SERVICE FUEL. FEE APPLIED JET AIRCRAFT. AFT HRS CALL 307-326-8344.",,8801 x 100 ft. / 2683 x 30 m,Publicly-owned,Runway 5/23
+SAC,"38-30-46.3000N 121-29-35.8810W
+38-30.771667N 121-29.598017W
+38.5128611,-121.4933003
+(estimated)",23.6 ft. / 7.2 m (surveyed),14E (2010),"3 miles S of SACRAMENTO, CA",UTC -8 (UTC -7 during Daylight Saving Time),95822,Open to the public,04/1940,yes,OAKLAND CENTER,RANCHO MURIETA FLIGHT SERVICE STATION,0800-1600,5503 x 150 ft. / 1677 x 46 m,tiedowns,3837 x 100 ft. / 1170 x 30 m,60 x 60 ft. / 18 x 18 m,Runway 2/20
+SAD,"32-51-12.0280N 109-38-06.2950W
+32-51.200467N 109-38.104917W
+32.8533411,-109.6350819
+(estimated)",3178.4 ft. / 968.8 m (surveyed),12E (1985),"3 miles E of SAFFORD, AZ",UTC -7 (year round; does not observe DST),85546,Open to the public,07/1942,no,ALBUQUERQUE CENTER,PRESCOTT FLIGHT SERVICE STATION,"MON-SAT 0800-1700, ALL SUN ON CALL
+AFT HR - 928-428-7820.",6007 x 100 ft. / 1831 x 30 m,hangars and tiedowns,4802 x 60 ft. / 1464 x 18 m,72 x 72 ft. / 22 x 22 m,Runway 12/30
+SAF,"35-37-01.6000N 106-05-21.9000W
+35-37.026667N 106-05.365000W
+35.6171111,-106.0894167
+(estimated)",6348.7 ft. / 1935.1 m (surveyed),08E (2020),"9 miles SW of SANTA FE, NM",UTC -7 (UTC -6 during Daylight Saving Time),87505,Open to the public,06/1942,yes,ALBUQUERQUE CENTER,ALBUQUERQUE FLIGHT SERVICE STATION,"0600-2200
+AFT HR SVC - 505-577-7256 OR 505-471-2255.",8366 x 150 ft. / 2550 x 46 m,hangars and tiedowns,6316 x 100 ft. / 1925 x 30 m,6301 x 75 ft. / 1921 x 23 m,Runway 2/20
+SAN,"32-44-00.8260N 117-11-22.7880W
+32-44.013767N 117-11.379800W
+32.7335628,-117.1896633
+(estimated)",16.8 ft. / 5 m (estimated),11E (2020),"2 miles W of SAN DIEGO, CA",UTC -8 (UTC -7 during Daylight Saving Time),92101,Open to the public,04/1940,yes,LOS ANGELES CENTER,SAN DIEGO FLIGHT SERVICE STATION,CONTINUOUS,9401 x 200 ft. / 2865 x 61 m,hangars and tiedowns,Publicly-owned,  ,Runway 9/27
+SAT,"29-32-02.2500N 098-28-08.6050W
+29-32.037500N 098-28.143417W
+29.5339583,-98.4690569
+(estimated)",809.1 ft. / 246.6 m (surveyed),04E (2020),"7 miles N of SAN ANTONIO, TX",UTC -6 (UTC -5 during Daylight Saving Time),78216,Open to the public,07/1942,yes,HOUSTON CENTER,SAN ANGELO FLIGHT SERVICE STATION,CONTINUOUS,100LL JET-A,,8505 x 150 ft. / 2592 x 46 m,8502 x 150 ft. / 2591 x 46 m,Runway 4/22
+SAV,"32-07-39.3000N 081-12-07.7000W
+32-07.655000N 081-12.128333W
+32.1275833,-81.2021389
+(estimated)",50.2 ft. / 15.3 m (surveyed),06W (2005),"7 miles NW of SAVANNAH, GA",UTC -5 (UTC -4 during Daylight Saving Time),31408,Open to the public,09/1942,yes,JACKSONVILLE CENTER,MACON FLIGHT SERVICE STATION,0600-2300,"100LL JET-A JET-A++
+A:FUEL: (A++100(MIL)).",,9351 x 150 ft. / 2850 x 46 m,7002 x 150 ft. / 2134 x 46 m,Runway 10/28
+SAW,"46-20-56.9700N 087-23-46.9380W
+46-20.949500N 087-23.782300W
+46.3491583,-87.3963717
+(estimated)",1204.5 ft. / 367.1 m (surveyed),04W (2000),"17 miles S of MARQUETTE, MI",UTC -5 (UTC -4 during Daylight Saving Time),49841,Open to the public,yes,MINNEAPOLIS CENTER,GREEN BAY FLIGHT SERVICE STATION,SAW (NOTAM-D service available),lighted,9072 x 150 ft. / 2765 x 46 m,hangars and tiedowns,Publicly-owned,  ,Runway 1/19
+SBA,"34-25-34.2889N 119-50-29.3737W
+34-25.571482N 119-50.489562W
+34.4261914,-119.8414927
+(estimated)",13.4 ft. / 4.1 m (surveyed),14E (1985),"7 miles W of SANTA BARBARA, CA",UTC -8 (UTC -7 during Daylight Saving Time),93117,Open to the public,04/1940,yes,LOS ANGELES CENTER,HAWTHORNE FLIGHT SERVICE STATION,0600-2300,6052 x 150 ft. / 1845 x 46 m,tiedowns,4184 x 100 ft. / 1275 x 30 m,4180 x 75 ft. / 1274 x 23 m,Runway 7/25
+SBD,"34-05-43.3000N 117-14-05.6000W
+34-05.721667N 117-14.093333W
+34.0953611,-117.2348889
+(estimated)",1159.3 ft. / 353.4 m (surveyed),13E (2005),"2 miles SE of SAN BERNARDINO, CA",UTC -8 (UTC -7 during Daylight Saving Time),92408,Open to the public,07/1940,yes,LOS ANGELES CENTER,RIVERSIDE FLIGHT SERVICE STATION,MON-SUN 0700-2100,100LL JET-A,,10000 x 200 ft. / 3048 x 61 m,Publicly-owned,Runway 6/24
+SBP,"35-14-14.2000N 120-38-33.4000W
+35-14.236667N 120-38.556667W
+35.2372778,-120.6426111
+(estimated)",212.3 ft. / 64.7 m (surveyed),15E (1980),"3 miles S of SAN LUIS OBISPO, CA",UTC -8 (UTC -7 during Daylight Saving Time),93401,Open to the public,04/1940,yes,LOS ANGELES CENTER,HAWTHORNE FLIGHT SERVICE STATION,0600-1700,6101 x 150 ft. / 1860 x 46 m,tiedowns,2500 x 100 ft. / 762 x 30 m,Publicly-owned,Runway 11/29
+SBS,"40-30-58.5390N 106-51-58.6860W
+40-30.975650N 106-51.978100W
+40.5162608,-106.8663017
+(estimated)",6882.4 ft. / 2097.8 m (surveyed),10E (2010),"3 miles NW of STEAMBOAT SPRINGS, CO",UTC -7 (UTC -6 during Daylight Saving Time),80487,Open to the public,01/1942,no,DENVER CENTER,DENVER FLIGHT SERVICE STATION,"NOV-APR 0700-1700, MAY-OCT 0700-1700",4452 x 100 ft. / 1357 x 30 m,hangars and tiedowns,Publicly-owned,  ,Runway 14/32
+SC3,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+SCK,"37-53-39.8770N 121-14-19.4640W
+37-53.664617N 121-14.324400W
+37.8944103,-121.2387400
+(estimated)",33.2 ft. / 10.1 m (surveyed),14E (2010),"3 miles SE of STOCKTON, CA",UTC -8 (UTC -7 during Daylight Saving Time),95206,Open to the public,04/1940,yes,OAKLAND CENTER,RANCHO MURIETA FLIGHT SERVICE STATION,CONTINUOUS,10249 x 150 ft. / 3124 x 46 m,hangars,4448 x 75 ft. / 1356 x 23 m,70 x 70 ft. / 21 x 21 m,Runway 11L/29R
+SDL,"33-37-22.4000N 111-54-37.9000W
+33-37.373333N 111-54.631667W
+33.6228889,-111.9105278
+(estimated)",1510.1 ft. / 460.3 m (surveyed),12E (1990),"9 miles N of SCOTTSDALE, AZ",UTC -7 (year round; does not observe DST),85260,Open to the public,03/1943,yes,ALBUQUERQUE CENTER,PRESCOTT FLIGHT SERVICE STATION,CONTINUOUS,"8249 x 100 ft. / 2514 x 30 m
+200 FT BLAST PAD BOTH ENDS.",hangars and tiedowns,Publicly-owned,  ,Runway 3/21
+SDP,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+SDY,"47-42-24.7000N 104-11-33.2000W
+47-42.411667N 104-11.553333W
+47.7068611,-104.1925556
+(estimated)",1985.3 ft. / 605.1 m (surveyed),09E (2010),"1 mile W of SIDNEY, MT",UTC -7 (UTC -6 during Daylight Saving Time),59270,Open to the public,01/1951,no,SALT LAKE CITY CENTER,GREAT FALLS FLIGHT SERVICE STATION,"0600-1900
+ON CALL 24 HOURS A DAY",5705 x 100 ft. / 1739 x 30 m,hangars and tiedowns,4024 x 100 ft. / 1227 x 30 m,Publicly-owned,Runway 1/19
+SEZ,"34-50-54.9210N 111-47-18.4110W
+34-50.915350N 111-47.306850W
+34.8485892,-111.7884475
+(estimated)",4830.5 ft. / 1472.3 m (surveyed),13E (1985),"2 miles SW of SEDONA, AZ",UTC -7 (year round; does not observe DST),86336,Open to the public,05/1956,no,ALBUQUERQUE CENTER,PRESCOTT FLIGHT SERVICE STATION,"MAY-SEP 0700-1800, OCT-APR 0700-1700",5132 x 100 ft. / 1564 x 30 m,hangars and tiedowns,50 x 50 ft. / 15 x 15 m,Publicly-owned,Runway 3/21
+SFF,"47-40-58.5860N 117-19-20.7340W
+47-40.976433N 117-19.345567W
+47.6829406,-117.3224261
+(estimated)",1956.7 ft. / 596.4 m (surveyed),16E (2010),"4 miles NE of SPOKANE, WA",UTC -8 (UTC -7 during Daylight Saving Time),99212,Open to the public,10/1937,yes,SEATTLE CENTER,SEATTLE FLIGHT SERVICE STATION,0600-2000,100LL JET-A1+,,4499 x 140 ft. / 1371 x 43 m,2650 x 75 ft. / 808 x 23 m,Runway 4L/22R
+SFM,"43-23-37.7000N 070-42-28.8000W
+43-23.628333N 070-42.480000W
+43.3938056,-70.7080000
+(estimated)",244.1 ft. / 74.4 m (surveyed),17W (1990),"4 miles SE of SANFORD, ME",UTC -5 (UTC -4 during Daylight Saving Time),04073,Open to the public,04/1940,no,BOSTON CENTER,BANGOR FLIGHT SERVICE STATION,"OCT-MAY 0700-1700, JUN-SEPT 0700-1900",100LL JET-A MOGAS,,6389 x 100 ft. / 1947 x 30 m,4999 x 100 ft. / 1524 x 30 m,Runway 7/25
+SFO,"37-37-07.7000N 122-22-31.5000W
+37-37.128333N 122-22.525000W
+37.6188056,-122.3754167
+(estimated)",13.1 ft. / 4.0 m (surveyed),14E (2015),"8 miles SE of SAN FRANCISCO, CA",UTC -8 (UTC -7 during Daylight Saving Time),94128,Open to the public,04/1940,yes,OAKLAND CENTER,OAKLAND FLIGHT SERVICE STATION,CONTINUOUS,11870 x 200 ft. / 3618 x 61 m,hangars,11381 x 200 ft. / 3469 x 61 m,8650 x 200 ft. / 2637 x 61 m,Runway 10L/28R
+SGF,"37-14-44.4000N 093-23-19.1000W
+37-14.740000N 093-23.318333W
+37.2456667,-93.3886389
+(estimated)",1268.3 ft. / 386.6 m (surveyed),03E (2000),"5 miles NW of SPRINGFIELD, MO",UTC -6 (UTC -5 during Daylight Saving Time),65803,Open to the public,yes,KANSAS CITY CENTER,COLUMBIA FLIGHT SERVICE STATION,SGF (NOTAM-D service available),2268.3 ft. MSL,8000 x 150 ft. / 2438 x 46 m,hangars and tiedowns,7003 x 150 ft. / 2135 x 46 m,Publicly-owned,Runway 14/32
+SGS,"44-51-25.7000N 093-01-58.3000W
+44-51.428333N 093-01.971667W
+44.8571389,-93.0328611
+(estimated)",821 ft. / 250.2 m (surveyed),00E (2015),"2 miles S of SOUTH ST PAUL, MN",UTC -6 (UTC -5 during Daylight Saving Time),55076,Open to the public,10/1941,no,MINNEAPOLIS CENTER,PRINCETON FLIGHT SERVICE STATION,"MON-SAT 0830-1700, ALL SUN 0830-1530",4002 x 100 ft. / 1220 x 30 m,hangars and tiedowns,Publicly-owned,  ,Runway 16/34
+SGT,"34-35-58.1227N 091-34-30.0010W
+34-35.968712N 091-34.500017W
+34.5994785,-91.5750003
+(estimated)",224.4 ft. / 68.4 m (surveyed),02E (2000),"7 miles N of STUTTGART, AR",UTC -6 (UTC -5 during Daylight Saving Time),72160,Open to the public,10/1943,no,MEMPHIS CENTER,JONESBORO FLIGHT SERVICE STATION,"NOV-JAN 0800-2000, FEB-OCT MON-FRI 0800-1600","100LL JET-A
+100LL:100LL AVBL 24 HRS SELF-SERVE WITH CREDIT CARD. FOR FUEL NIGHTS CALL 870-672-2005.",,6015 x 100 ft. / 1833 x 30 m,5002 x 150 ft. / 1525 x 46 m,Runway 18/36
+SGU,"37-02-10.9610N 113-30-37.0900W
+37-02.182683N 113-30.618167W
+37.0363781,-113.5103028
+(estimated)",2883.6 ft. / 878.9 m (surveyed),12E (2010),"5 miles SE of ST GEORGE, UT",UTC -7 (UTC -6 during Daylight Saving Time),84790,Open to the public,01/2011,no,LOS ANGELES CENTER,CEDAR CITY FLIGHT SERVICE STATION,0600-2400,100LL JET-A,,9300 x 150 ft. / 2835 x 46 m,Publicly-owned,Runway 1/19
+SHR,"44-46-09.1000N 106-58-49.0000W
+44-46.151667N 106-58.816667W
+44.7691944,-106.9802778
+(estimated)",4021.1 ft. / 1225.6 m (surveyed),10E (2020),"2 miles SW of SHERIDAN, WY",UTC -7 (UTC -6 during Daylight Saving Time),82801,Open to the public,10/1937,no,SALT LAKE CITY CENTER,CASPER FLIGHT SERVICE STATION,"DAYLIGHT HOURS
+CONDS NOT MONITORED AT NGT AFT THE LAST ACR ARR TIL 0500L. SEE NOTAMS FOR THE MOST UP-TO-DATE CONDS AND UPDTS.",8301 x 100 ft. / 2530 x 30 m,hangars and tiedowns,5039 x 75 ft. / 1536 x 23 m,Publicly-owned,Runway 15/33
+SHV,"32-26-47.4550N 093-49-33.7440W
+32-26.790917N 093-49.562400W
+32.4465153,-93.8260400
+(estimated)",257.6 ft. / 78.5 m (surveyed),02E (2020),"4 miles SW of SHREVEPORT, LA",UTC -6 (UTC -5 during Daylight Saving Time),71109,Open to the public,08/1952,yes,FORT WORTH CENTER,DE RIDDER FLIGHT SERVICE STATION,CONTINUOUS,100LL JET-A,,8348 x 200 ft. / 2544 x 61 m,7003 x 150 ft. / 2135 x 46 m,Runway 14/32
+SIK,"36-53-56.0000N 089-33-42.3000W
+36-53.933333N 089-33.705000W
+36.8988889,-89.5617500
+(estimated)",314.8 ft. / 96.0 m (surveyed),02W (2015),"2 miles NE of SIKESTON, MO",UTC -6 (UTC -5 during Daylight Saving Time),63801,Open to the public,04/1940,no,MEMPHIS CENTER,SAINT LOUIS FLIGHT SERVICE STATION,0800-1700,"100LL JET-A
+100LL:24-HR AUTOMATIC CREDIT CARD FUELING SYSTEM FOR 100LL.",,5502 x 100 ft. / 1677 x 30 m,Publicly-owned,Runway 3/21
+SIT,"57-02-48.6037N 135-21-39.8473W
+57-02.810062N 135-21.664122W
+57.0468344,-135.3610687
+(estimated)",26.5 ft. / 8 m (estimated),20E (2015),UTC -9 (UTC -8 during Daylight Saving Time),99835,nan,Open to the public,12/1969,no,ANCHORAGE CENTER,SITKA FLIGHT SERVICE STATION (on field) [907-966-2221],SIT (NOTAM-D service available),"100 JET-A1+
+100:FOR FUEL AFT HRS CTC UNICOM FREQ 122.95 OR 907-747-7222.",,7200 x 150 ft. / 2195 x 46 m,Publicly-owned,Runway 11/29
+SIY,"41-46-53.2000N 122-28-05.2000W
+41-46.886667N 122-28.086667W
+41.7814444,-122.4681111
+(estimated)",2651.1 ft. / 808.1 m (surveyed),19E (1975),"3 miles NE of MONTAGUE, CA",UTC -8 (UTC -7 during Daylight Saving Time),96064,Open to the public,09/1943,no,SEATTLE CENTER,RANCHO MURIETA FLIGHT SERVICE STATION,0800-1700,A,,7490 x 150 ft. / 2283 x 46 m,Publicly-owned,Runway 17/35
+SJC,"37-21-46.7810N 121-55-43.0340W
+37-21.779683N 121-55.717233W
+37.3629947,-121.9286206
+(estimated)",62.2 ft. / 19.0 m (surveyed),13E (2020),"2 miles NW of SAN JOSE, CA",UTC -8 (UTC -7 during Daylight Saving Time),95110,Open to the public,02/1946,yes,OAKLAND CENTER,OAKLAND FLIGHT SERVICE STATION,CONTINUOUS,11000 x 150 ft. / 3353 x 46 m,hangars and tiedowns,11000 x 150 ft. / 3353 x 46 m,Publicly-owned,Runway 12L/30R
+SJS,"37-45-03.6710N 082-38-12.0710W
+37-45.061183N 082-38.201183W
+37.7510197,-82.6366864
+(estimated)",1221.3 ft. / 372.3 m (surveyed),05W (1990),"9 miles NE of PRESTONSBURG, KY",UTC -5 (UTC -4 during Daylight Saving Time),41214,Open to the public,04/1986,no,INDIANAPOLIS CENTER,LOUISVILLE FLIGHT SERVICE STATION,0800-DUSK,Publicly-owned,"asphalt, in excellent condition",  ,DEER AND BIRDS ON & INVOF ARPT.,Runway 3/21
+SJT,"31-21-27.8940N 100-29-46.6950W
+31-21.464900N 100-29.778250W
+31.3577483,-100.4963042
+(estimated)",1918.6 ft. / 584.8 m (surveyed),05E (2020),"7 miles SW of SAN ANGELO, TX",UTC -6 (UTC -5 during Daylight Saving Time),76904,Open to the public,09/1943,yes,FORT WORTH CENTER,SAN ANGELO FLIGHT SERVICE STATION,0600-2200,"100LL JET-A
+100LL:FEE FOR FUEL AFT HRS CALL 325-656-1836/1837.",,8054 x 150 ft. / 2455 x 46 m,5940 x 150 ft. / 1811 x 46 m,Runway 18/36
+SKX,"36-27-06.1000N 105-40-23.1000W
+36-27.101667N 105-40.385000W
+36.4516944,-105.6730833
+(estimated)",7094.6 ft. / 2162.4 m (surveyed),09E (2010),"8 miles NW of TAOS, NM",UTC -7 (UTC -6 during Daylight Saving Time),87571,Open to the public,03/1967,no,ALBUQUERQUE CENTER,ALBUQUERQUE FLIGHT SERVICE STATION,0800-1800,8600 x 100 ft. / 2621 x 30 m,hangars and tiedowns,5504 x 75 ft. / 1678 x 23 m,Publicly-owned,Runway 13/31
+SLC,"40-47-18.2160N 111-58-39.9840W
+40-47.303600N 111-58.666400W
+40.7883933,-111.9777733
+(estimated)",4230.9 ft. / 1289.6 m (surveyed),11E (2020),"3 miles W of SALT LAKE CITY, UT",UTC -7 (UTC -6 during Daylight Saving Time),84116,Open to the public,11/1938,yes,SALT LAKE CITY CENTER,CEDAR CITY FLIGHT SERVICE STATION,CONTINUOUS,12002 x 150 ft. / 3658 x 46 m,hangars and tiedowns,12000 x 150 ft. / 3658 x 46 m,9596 x 150 ft. / 2925 x 46 m,Runway 16L/34R
+SLE,"44-54-34.3000N 123-00-09.0000W
+44-54.571667N 123-00.150000W
+44.9095278,-123.0025000
+(estimated)",213.4 ft. / 65.0 m (surveyed),17E (2005),"2 miles SE of SALEM, OR",UTC -8 (UTC -7 during Daylight Saving Time),97302,Open to the public,11/1937,yes,SEATTLE CENTER,MC MINNVILLE FLIGHT SERVICE STATION,0730-DUSK,100LL JET-A,,5811 x 150 ft. / 1771 x 46 m,5146 x 100 ft. / 1569 x 30 m,Runway 13/31
+SLI,"33-47-24.1080N 118-03-05.1120W
+33-47.401800N 118-03.085200W
+33.7900300,-118.0514200
+(estimated)",35.5 ft. / 10.8 m (surveyed),12E (2020),"1 mile SE of LOS ALAMITOS, CA",UTC -8 (UTC -7 during Daylight Saving Time),90720,Private use. Permission required prior to landing,04/1944,yes,LOS ANGELES CENTER,HAWTHORNE FLIGHT SERVICE STATION,"TUE-THU 1400-0600Z++, ALL FRI-MON 1400-2300Z++
+CLSD ALL FED HOL. EXP CLOSURE OR REDUCED SVC PER NOTAM. RSTD: PPR CTC AFLD OPS, RCMD UNITS ASK FOR CURRENT CPBLTY WHEN REQG PPR DSN 972-2571, C562-795-2571; NG.CA.CAARNG.MBX.KSLIOPERATIONS@MAIL.MIL FOR PPR REQ FORM.",7999 x 200 ft. / 2438 x 61 m,USE 251.15 WHEN LOS ALAMITOS TWR CLSD.,5901 x 150 ft. / 1799 x 46 m,U.S. Army,Runway 4R/22L
+SMF,"38-41-43.6000N 121-35-26.8000W
+38-41.726667N 121-35.446667W
+38.6954444,-121.5907778
+(estimated)",26.9 ft. / 8.2 m (surveyed),13E (2020),"10 miles NW of SACRAMENTO, CA",UTC -8 (UTC -7 during Daylight Saving Time),95837,Open to the public,06/1962,yes,OAKLAND CENTER,RANCHO MURIETA FLIGHT SERVICE STATION,CONTINUOUS,8605 x 150 ft. / 2623 x 46 m,tiedowns,8598 x 150 ft. / 2621 x 46 m,Publicly-owned,Runway 17L/35R
+SMN,"45-07-23.8000N 113-52-53.2000W
+45-07.396667N 113-52.886667W
+45.1232778,-113.8814444
+(estimated)",4044.2 ft. / 1232.7 m (surveyed),13E (2020),"4 miles S of SALMON, ID",UTC -7 (UTC -6 during Daylight Saving Time),83467,Open to the public,04/1940,no,SALT LAKE CITY CENTER,BOISE FLIGHT SERVICE STATION,0800-1700,5510 x 75 ft. / 1679 x 23 m,tiedowns,Publicly-owned,  ,Runway 17/35
+SMX,"34-53-59.8000N 120-27-29.1000W
+34-53.996667N 120-27.485000W
+34.8999444,-120.4580833
+(estimated)",261.2 ft. / 79.6 m (surveyed),14E (1985),"3 miles S of SANTA MARIA, CA",UTC -8 (UTC -7 during Daylight Saving Time),93455,Open to the public,06/1947,yes,LOS ANGELES CENTER,HAWTHORNE FLIGHT SERVICE STATION,0600-2200,8004 x 150 ft. / 2440 x 46 m,tiedowns,5199 x 75 ft. / 1585 x 23 m,Publicly-owned,Runway 12/30
+SNA,"33-40-32.3830N 117-52-05.6390W
+33-40.539717N 117-52.093983W
+33.6756619,-117.8682331
+(estimated)",55.9 ft. / 17.0 m (surveyed),12E (2015),"4 miles S of SANTA ANA, CA",UTC -8 (UTC -7 during Daylight Saving Time),92707,Open to the public,11/1941,yes,LOS ANGELES CENTER,RIVERSIDE FLIGHT SERVICE STATION,CONTINUOUS,5700 x 150 ft. / 1737 x 46 m,tiedowns,2886 x 75 ft. / 880 x 23 m,Publicly-owned,Runway 2L/20R
+SNP,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+SNS,"36-39-46.0314N 121-36-22.9191W
+36-39.767190N 121-36.381985W
+36.6627865,-121.6063664
+(estimated)",84.3 ft. / 25.7 m (surveyed),13E (2020),"3 miles SE of SALINAS, CA",UTC -8 (UTC -7 during Daylight Saving Time),93905,Open to the public,06/1942,yes,OAKLAND CENTER,OAKLAND FLIGHT SERVICE STATION,CONTINUOUS,6004 x 150 ft. / 1830 x 46 m,hangars and tiedowns,"4825 x 150 ft. / 1471 x 46 m
+200 FT ASPH STWY RY 31.",90 x 90 ft. / 27 x 27 m,Runway 8/26
+SNY,"41-05-59.1390N 102-59-05.9750W
+41-05.985650N 102-59.099583W
+41.0997608,-102.9849931
+(estimated)",4314.2 ft. / 1315.0 m (surveyed),11E (1980),"3 miles S of SIDNEY, NE",UTC -7 (UTC -6 during Daylight Saving Time),69162,Open to the public,01/1948,no,DENVER CENTER,COLUMBUS FLIGHT SERVICE STATION,"0700-1800
+AFTER HRS CALL 308-254-5058.",100LL JET-A,,6600 x 100 ft. / 2012 x 30 m,4705 x 75 ft. / 1434 x 23 m,Runway 13/31
+SOP,"35-14-14.7210N 079-23-20.5210W
+35-14.245350N 079-23.342017W
+35.2374225,-79.3890336
+(estimated)",459.3 ft. / 140.0 m (surveyed),08W (2000),3 miles N of central business district of the associated city,UTC -5 (UTC -4 during Daylight Saving Time),28327,Open to the public,09/1937,no,WASHINGTON CENTER,RALEIGH FLIGHT SERVICE STATION,0800-2000,100LL JET-A+,,6503 x 150 ft. / 1982 x 46 m,Publicly-owned,Runway 5/23
+SPB,"45-46-15.7000N 122-51-42.6000W
+45-46.261667N 122-51.710000W
+45.7710278,-122.8618333
+(estimated)",58.1 ft. / 17.7 m (surveyed),17E (2010),"1 mile NE of SCAPPOOSE, OR",UTC -8 (UTC -7 during Daylight Saving Time),97056,Open to the public,11/1943,no,SEATTLE CENTER,MC MINNVILLE FLIGHT SERVICE STATION,0800-DUSK,100LL JET-A,,5100 x 100 ft. / 1554 x 30 m,Publicly-owned,Runway 15/33
+SPF,"44-28-51.8000N 103-47-09.6000W
+44-28.863333N 103-47.160000W
+44.4810556,-103.7860000
+(estimated)",3933.1 ft. / 1198.8 m (surveyed),11E (1990),"3 miles E of SPEARFISH, SD",UTC -7 (UTC -6 during Daylight Saving Time),57783,Open to the public,11/1937,no,DENVER CENTER,HURON FLIGHT SERVICE STATION,"0730-DUSK
+FOR ATTENDANT AFT HRS CALL 605-642-2656/641-2787.",4003 x 100 ft. / 1220 x 30 m,"asphalt, in good condition",1995 x 120 ft. / 608 x 37 m,Publicly-owned,Runway 13/31
+SPI,"39-50-40.6090N 089-40-39.1680W
+39-50.676817N 089-40.652800W
+39.8446136,-89.6775467
+(estimated)",597.8 ft. / 182.2 m (surveyed),01W (2005),"3 miles NW of SPRINGFIELD, IL",UTC -6 (UTC -5 during Daylight Saving Time),62707,Open to the public,03/1947,yes,KANSAS CITY CENTER,SAINT LOUIS FLIGHT SERVICE STATION,0530-0000,100LL JET-A J8,,8001 x 150 ft. / 2439 x 46 m,7400 x 150 ft. / 2256 x 46 m,Runway 4/22
+SPS,"33-59-19.6820N 098-29-30.8490W
+33-59.328033N 098-29.514150W
+33.9888006,-98.4919025
+(estimated)",1019.1 ft. / 310.6 m (surveyed),05E (2010),"5 miles N of WICHITA FALLS, TX",UTC -6 (UTC -5 during Daylight Saving Time),76311,Open to the public,yes,FORT WORTH CENTER,"FORT WORTH FLIGHT SERVICE STATION
+LC CALL TO FSS 855-5574.",SPS (NOTAM-D service available),"TPA: 800 FT AGL LGT ACFT, 800 FT AGL, 1300 FT AGL CONVENTIONAL & JET, RWY 15R/33L 1800 FT AGL OVERHEAD.",100LL JET-A,,13101 x 300 ft. / 3993 x 91 m,10003 x 150 ft. / 3049 x 46 m,Runway 15R/33L
+SRQ,"27-23-43.6000N 082-33-15.8000W
+27-23.726667N 082-33.263333W
+27.3954444,-82.5543889
+(estimated)",29.9 ft. / 9.1 m (surveyed),05W (2010),3 miles N of central business district of the associated city,UTC -5 (UTC -4 during Daylight Saving Time),34243,Open to the public,04/1942,yes,MIAMI CENTER,SAINT PETERSBURG FLIGHT SERVICE STATION,CONTINUOUS,9500 x 150 ft. / 2896 x 46 m,hangars and tiedowns,5006 x 150 ft. / 1526 x 46 m,Publicly-owned,Runway 14/32
+SSF,"29-20-13.1330N 098-28-15.7600W
+29-20.218883N 098-28.262667W
+29.3369814,-98.4710444
+(estimated)",577.6 ft. / 176.1 m (surveyed),08E (1980),"6 miles S of SAN ANTONIO, TX",UTC -6 (UTC -5 during Daylight Saving Time),78214,Open to the public,06/1938,yes,HOUSTON CENTER,SAN ANGELO FLIGHT SERVICE STATION,0700-2200,100LL JET-A,,5000 x 100 ft. / 1524 x 30 m,4128 x 100 ft. / 1258 x 30 m,Runway 9/27
+STP,"44-56-04.6410N 093-03-37.2328W
+44-56.077350N 093-03.620547W
+44.9346225,-93.0603424
+(estimated)",705.4 ft. / 215 m (estimated),00E (2020),"1 mile S of ST PAUL, MN",UTC -6 (UTC -5 during Daylight Saving Time),55107,Open to the public,04/1940,yes,MINNEAPOLIS CENTER,PRINCETON FLIGHT SERVICE STATION,CONTINUOUS,6491 x 150 ft. / 1978 x 46 m,hangars and tiedowns,4004 x 150 ft. / 1220 x 46 m,3642 x 100 ft. / 1110 x 30 m,Runway 14/32
+STS,"38-30-34.9000N 122-48-46.4000W
+38-30.581667N 122-48.773333W
+38.5096944,-122.8128889
+(estimated)",128.7 ft. / 39.2 m (surveyed),16E (1985),"6 miles NW of SANTA ROSA, CA",UTC -8 (UTC -7 during Daylight Saving Time),95403,Open to the public,yes,OAKLAND CENTER,OAKLAND FLIGHT SERVICE STATION,STS (NOTAM-D service available),"TPA FOR SMALL ACFT 1,000 FT AGL AND TPA FOR LARGE ACFT 1,500 FT AGL.",6000 x 150 ft. / 1829 x 46 m,tiedowns,5202 x 100 ft. / 1586 x 30 m,Publicly-owned,Runway 14/32
+SUA,"27-10-54.1170N 080-13-16.6560W
+27-10.901950N 080-13.277600W
+27.1816992,-80.2212933
+(estimated)",16.1 ft. / 4.9 m (surveyed),06W (2010),"1 mile SE of STUART, FL",UTC -5 (UTC -4 during Daylight Saving Time),34996,Open to the public,07/1943,yes,MIAMI CENTER,MIAMI FLIGHT SERVICE STATION,0800-2300,100LL JET-A,,5828 x 100 ft. / 1776 x 30 m,5000 x 100 ft. / 1524 x 30 m,Runway 12/30
+SUE,"44-50-37.2000N 087-25-17.5000W
+44-50.620000N 087-25.291667W
+44.8436667,-87.4215278
+(estimated)",724.2 ft. / 220.7 m (surveyed),03W (1995),"2 miles W of STURGEON BAY, WI",UTC -6 (UTC -5 during Daylight Saving Time),54235,Open to the public,03/1940,no,MINNEAPOLIS CENTER,GREEN BAY FLIGHT SERVICE STATION,"MON-SAT 0700-1700, ALL SUN 1000-1700
+EXCEPT SUMMER HRS FR LABOR DAY - MEMORIAL DAY 0700-1800 FRI & SAT, 0900-1600 SUN..",4599 x 75 ft. / 1402 x 23 m,hangars and tiedowns,3199 x 75 ft. / 975 x 23 m,Publicly-owned,Runway 2/20
+SUN,"43-30-13.6100N 114-17-44.0100W
+43-30.226833N 114-17.733500W
+43.5037806,-114.2955583
+(estimated)",5319.5 ft. / 1621.4 m (surveyed),13E (2020),"1 mile SE of HAILEY, ID",UTC -7 (UTC -6 during Daylight Saving Time),83313,Open to the public,04/1940,yes,SALT LAKE CITY CENTER,BOISE FLIGHT SERVICE STATION,0700-2300,7550 x 100 ft. / 2301 x 30 m,hangars and tiedowns,Publicly-owned,  ,Runway 13/31
+SVC,"32-38-11.5690N 108-09-22.9860W
+32-38.192817N 108-09.383100W
+32.6365469,-108.1563850
+(estimated)",5445.6 ft. / 1659.8 m (surveyed),08E (2025),"10 miles SE of SILVER CITY, NM",UTC -7 (UTC -6 during Daylight Saving Time),88043,Open to the public,07/1942,no,ALBUQUERQUE CENTER,ALBUQUERQUE FLIGHT SERVICE STATION,0600-1700,6803 x 100 ft. / 2074 x 30 m,tiedowns,5473 x 75 ft. / 1668 x 23 m,4675 x 75 ft. / 1425 x 23 m,Runway 8/26
+SVH,"35-45-54.0000N 080-57-14.0000W
+35-45.900000N 080-57.233333W
+35.7650000,-80.9538889
+(estimated)",967.8 ft. / 295.0 m (surveyed),08W (2015),"3 miles SW of STATESVILLE, NC",UTC -5 (UTC -4 during Daylight Saving Time),28677,Open to the public,03/1940,no,ATLANTA CENTER,RALEIGH FLIGHT SERVICE STATION,"MON-FRI 0600-2100, ALL SAT-SUN 0800-2100
+FOR AFTER HOURS SERVICE CALL (704) 437-6617 OR (704) 880-6897",100LL JET-A JET-A1+,,7003 x 100 ft. / 2135 x 30 m,Publicly-owned,Runway 10/28
+SWI,"33-37-26.9000N 096-35-10.1000W
+33-37.448333N 096-35.168333W
+33.6241389,-96.5861389
+(estimated)",746.1 ft. / 227.4 m (surveyed),03E (2015),"1 mile SE of SHERMAN, TX",UTC -6 (UTC -5 during Daylight Saving Time),75090,Open to the public,08/1937,no,FORT WORTH CENTER,FORT WORTH FLIGHT SERVICE STATION,0800-1700,"100LL
+100LL:FUEL AVBL WITH MAJOR CREDIT CARD.",,4000 x 75 ft. / 1219 x 23 m,Publicly-owned,Runway 16/34
+SXQ,"60-28-30.5000N 151-02-22.7000W
+60-28.508333N 151-02.378333W
+60.4751389,-151.0396389
+(estimated)",113.4 ft. / 34.6 m (surveyed),15E (2020),"1 mile SE of SOLDOTNA, AK",UTC -9 (UTC -8 during Daylight Saving Time),99669,Open to the public,10/1962,no,ANCHORAGE CENTER,KENAI FLIGHT SERVICE STATION [907-283-7211],0700-1600,"100LL JET-A
+A:FOR JETA CALL 907-262-5388 BTN 0700-1600 OR AFT HRS CALL 907-420-7153 BTN 1600-0400. CALL OUT FEE AFT 1600.
+100LL:100LL FUEL AVBL 24 HRS WITH CREDIT CARD.",,5001 x 130 ft. / 1524 x 40 m,2300 x 60 ft. / 701 x 18 m,Runway 7/25
+SZT,"48-17-58.3000N 116-33-36.5000W
+48-17.971667N 116-33.608333W
+48.2995278,-116.5601389
+(estimated)",2131 ft. / 649.5 m (surveyed),14E (2020),"2 miles N of SANDPOINT, ID",UTC -8 (UTC -7 during Daylight Saving Time),83864,Open to the public,04/1940,no,SEATTLE CENTER,BOISE FLIGHT SERVICE STATION,"SUMMER 0700-1700, WINTER 0800-1700",100LL JET-A,,5501 x 75 ft. / 1677 x 23 m,Publicly-owned,Runway 2/20
+T31,"33-12-30.4200N 096-44-30.9880W
+33-12.507000N 096-44.516467W
+33.2084500,-96.7419411
+(estimated)",765 ft. / 233 m (estimated),06E (1985),"4 miles W of MC KINNEY, TX",UTC -6 (UTC -5 during Daylight Saving Time),75070,Open to the public,11/1976,no,FORT WORTH CENTER,FORT WORTH FLIGHT SERVICE STATION,UNATNDD,"100LL
+100LL:FUEL 24 HRS SELF-SERVE.",,4352 x 60 ft. / 1326 x 18 m,Privately-owned,Runway 17/35
+T82,"30-14-35.7000N 098-54-33.1000W
+30-14.595000N 098-54.551667W
+30.2432500,-98.9091944
+(estimated)",1694.7 ft. / 516.5 m (surveyed),06E (2005),"3 miles SW of FREDERICKSBURG, TX",UTC -6 (UTC -5 during Daylight Saving Time),78624,Open to the public,03/1947,no,HOUSTON CENTER,SAN ANGELO FLIGHT SERVICE STATION,MON-FRI 0800-1700,5001 x 75 ft. / 1524 x 23 m,tiedowns,Publicly-owned,  ,Runway 14/32
