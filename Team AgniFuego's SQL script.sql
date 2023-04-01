@@ -1,24 +1,13 @@
 -- MySQL script for Team AgniFuego's project
 
-CREATE DATABASE IF NOT EXISTS runways;
+CREATE DATABASE IF NOT EXISTS airportandrunway;
+
+USE airportandrunway;
 
 
 desc runway;
 -- renaming important columns in the runway table
-ALTER TABLE runway RENAME COLUMN `Loc Id` TO Dep_Airport_ID;
-ALTER TABLE runway RENAME COLUMN `Runway Id` TO Runway_ID;
-ALTER TABLE runway RENAME COLUMN `Surface Type Condition` TO Surface_Type_Condition;
-ALTER TABLE runway RENAME COLUMN `Edge Light Intensity` TO Edge_Light_Intensity;
-ALTER TABLE runway RENAME COLUMN `WBC Single` TO WBC_Single;
-ALTER TABLE runway RENAME COLUMN `WBC Dual` TO WBC_Dual;
-ALTER TABLE runway RENAME COLUMN `WBC Two Dual` TO WBC_Two_Dual;
-ALTER TABLE runway RENAME COLUMN `WBC Tandem Two Dual` TO WBC_Tandem_Two_Dual;
-ALTER TABLE runway RENAME COLUMN `Base Marking Condition` TO Base_Marking_Condition;
 
-ALTER TABLE runway RENAME COLUMN `Site Id` TO Site_ID;
-ALTER TABLE runway RENAME COLUMN `Surface Treatment` TO Surface_Treatment;
-ALTER TABLE runway RENAME COLUMN `Length Source` TO Length_Source;
-ALTER TABLE runway RENAME COLUMN `Length Source` TO Length_Source_Date;
 
 /* ALTER TABLE runway ADD COLUMN ID int NOT NULL PRIMARY KEY;
 ALTER TABLE runway ADD PRIMARY KEY(ID);
@@ -26,55 +15,26 @@ ALTER TABLE runway DROP COLUMN ID;
 ALTER TABLE runway ADD PRIMARY KEY (ID);
 SHOW INDEX FROM runways.runway WHERE Key_name = 'PRIMARY'; */
 
-
+SELECT * FROM Airports_Table;
 desc airports;
--- renaming important columns in the airports table
-ALTER TABLE airports RENAME COLUMN `Loc Id` TO Dep_Airport_ID;
-ALTER TABLE airports RENAME COLUMN `Facility Type` TO Facility_Type;
 
-ALTER TABLE airports RENAME COLUMN `Site Id` TO Site_ID;
-ALTER TABLE airports RENAME COLUMN `State Id` TO State_ID;
-ALTER TABLE airports RENAME COLUMN `Effective Date` TO Effective_Date;
-ALTER TABLE airports RENAME COLUMN `Activation Date` TO Activation_Date;
-ALTER TABLE airports RENAME COLUMN `Operations Date` TO Operations_Date;
-ALTER TABLE airports RENAME COLUMN `ARP Latitude` TO ARP_Latitude;
-ALTER TABLE airports RENAME COLUMN `ARP Latitude Sec` TO ARP_Latitude_Sec;
-ALTER TABLE airports RENAME COLUMN `ARP Longitude` TO ARP_Longitude;
-ALTER TABLE airports RENAME COLUMN `ARP Longitude Sec` TO ARP_Longitude_Sec;
-ALTER TABLE airports RENAME COLUMN `ARP Method` TO ARP_Method;
-ALTER TABLE airports RENAME COLUMN `Land Area` TO Land_Area;
-ALTER TABLE airports RENAME COLUMN `Airport Status Code` TO Airport_Status_Code;
-ALTER TABLE airports RENAME COLUMN `Airspace Determination` TO Airspace_Determination;
-ALTER TABLE airports RENAME COLUMN `Fuel Types` TO Fuel_Types;
-ALTER TABLE airports RENAME COLUMN `Fuel Available` TO Fuel_Available;
-ALTER TABLE airports RENAME COLUMN `Single Engine Aircraft` TO Single_Engine_Aircraft;
-ALTER TABLE airports RENAME COLUMN `Multi Engine Aircraft` TO Multi_Engine_Aircraft;
-ALTER TABLE airports RENAME COLUMN `Jet Engine Aircraft` TO Jet_Engine_Aircraft;
-ALTER TABLE airports RENAME COLUMN `Inspection Method` TO Inspection_Method;
-ALTER TABLE airports RENAME COLUMN `Last Inspection Date` TO Last_Inspection_Date;
-ALTER TABLE airports RENAME COLUMN `Wind Indicator` TO Wind_Indicator;
 
 -- time to prepare the airport_schedules table
 desc airport_schedules;
 -- renaming important columns in the airport_schedules table
-ALTER TABLE airport_schedules RENAME COLUMN `Loc Id` TO Dep_Airport_ID;
-ALTER TABLE airport_schedules RENAME COLUMN `Schedule` TO Schedules;
-ALTER TABLE airport_schedules RENAME COLUMN `Site Id` TO Site_ID;
-ALTER TABLE airport_schedules RENAME COLUMN `ICAO Id` TO ICAO_ID;
-ALTER TABLE airport_schedules RENAME COLUMN `State Id` TO State_ID;
+
 
 -- time to prepare the runway_counts table
-ALTER TABLE runway_counts RENAME COLUMN `Runway Id` TO Num_of_Runways;
-ALTER TABLE runway_counts RENAME COLUMN `Loc Id` TO Dep_Airport_ID;
+
 
 -- time to prepare the firefighting_aircraft
 desc firefighting_aircraft;
 -- renaming important columns in the firefighting_aircraft table
-ALTER TABLE firefighting_aircraft RENAME COLUMN `Departure Airport` TO Dep_Airport_ID;
+
 
 -- time to prepare the final_runway_info table
 desc final_runway_info;
-ALTER TABLE final_runway_info RENAME COLUMN `Loc Id` TO Dep_Airport_ID;
+
 
 
 
