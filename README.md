@@ -1,6 +1,7 @@
 # AgniFuego
 
 # Aerial Fire Fighting Dashboard and Predictive Analytics
+https://public.tableau.com/views/FinalDashboardForAerialFireFightingPreparedness-Agnifuego/Fire-FightingAircraftsInformation?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 # Description
 This project focuses on developing real-time dashboard to provide information on flight operations. And also develop a predictive analysis to assits decison makers in flight operation prepardness.
@@ -25,6 +26,11 @@ Dataset-3
 The link below provides the dataset for airports and runways
 https://adip.faa.gov/agis/public/#/airportSearch/advanced
 
+# Folders In Git
+While there are many files that reflect to all our intial struggles to data extraction and cleaning.
+The final project files folder consists of the final version of code used to extarction ccleaning and manipulation of data.
+And the time series folder contains the R and excel files used for time series prediction models built on SARIMA, Moving Average and Expotential Smoothing.
+
 
 # Required Resourses
 
@@ -32,9 +38,10 @@ Visual Studio
 Jupyter Notebook
 Tableau
 Excel
+R
 
 # Objectives
-To continue scraping data from flightware to constantly keep track of the flight path data.
+To continue scraping data from flightware to constantly keep track of the flight path data. And join the data extracted from the FAA N regitry and FAA airport database to this flightaware data in order to build a dashboard that helps in analysying the data for fire-fighting resources and assists in effective decision making through predicitve analytics.
 
 
 
