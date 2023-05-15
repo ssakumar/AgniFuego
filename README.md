@@ -1,13 +1,17 @@
-# AgniFuego
+# Team Name: AgniFuego
 
-# Aerial Fire Fighting Dashboard and Predictive Analytics
-https://public.tableau.com/views/FinalDashboardForAerialFireFightingPreparedness-Agnifuego/Fire-FightingAircraftsInformation?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+# Aerial Fire Fighting Dashboards and Predictive Analytics
+https://public.tableau.com/app/profile/sai.aishwarya.sakamuri4731/viz/Dashboard-WildfireCombating/Fire-FightingAircraftsInformation
+# Main Time-Series Analysis Dashboard
+https://public.tableau.com/app/profile/spencer.marlen.starr/viz/Time-SeriesAnalysisofUnitedStatesAerialFirefightingOperations_16841213128340/FPW
 
 # Description
-This project focuses on developing real-time dashboard to provide information on flight operations. And also develop a predictive analysis to assits decison makers in flight operation prepardness.
+This project focuses on developing a real-time dashboard to provide information on operations involved in aerial firefighting across the United States.
+
+Everything having to do with the time-series analysis Dashboard and the forecasting reviewed in our report is in the folder.
+
 
 # Group Members
-
 Spencer A Marlen Starr - Product Owner 
 Sai Aishwarya Sakamuri - GitHub Repository Owner
 Nikhil Gudupalli - Scrum Master
