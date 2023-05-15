@@ -8,7 +8,7 @@ https://public.tableau.com/app/profile/spencer.marlen.starr/viz/Time-SeriesAnaly
 # Description
 This project focuses on developing a real-time dashboard to provide information on operations involved in aerial firefighting across the United States.
 
-Everything having to do with the time-series analysis Dashboard and the forecasting reviewed in our report is in the folder.
+Everything having to do with the time-series analysis Dashboard and the forecasting reviewed in our report is in the TimeSeriesAnalysis folder.
 
 
 # Group Members
